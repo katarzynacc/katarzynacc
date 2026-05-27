@@ -8,7 +8,20 @@
 > Stats auto-updated by [aidevops](https://aidevops.sh).
 
 <!-- STATS-START -->
-<!-- Stats will be populated on first update -->
+## Work with AI
+
+| Metric | 24h | 7 Days | 28 Days | 365 Days |
+| --- | ---: | ---: | ---: | ---: |
+| Screen time (Linux) | 24h | 89.5h | 89.5h | ~1,132h* |
+| User AI session hours | 0.0h | 0.0h | 0.0h | 0.0h |
+| AI worker hours | 0.0h | 0.0h | 0.0h | 0.0h |
+| AI concurrency hours | 0.0h | 0.0h | 0.0h | 0.0h |
+| Interactive sessions | 1 | 1 | 1 | 1 |
+| Worker sessions | 0 | 0 | 0 | 0 |
+
+_Screen time from systemd-logind session events, snapshotted daily. *365-day extrapolated (accumulating real data)._
+
+_User AI session hours measured from AI message timestamps (reading, thinking, typing between responses)._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -20,4 +33,5 @@
 ---
 
 <!-- UPDATED-START -->
+_Stats auto-updated 2026-05-27 18:30 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
