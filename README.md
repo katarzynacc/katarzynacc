@@ -83,7 +83,9 @@ _Model savings are modest because ~95.5% of tokens are cache reads, where price 
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
-<!-- CONTRIBUTIONS-END -->
+## Contributions
+
+- **[aidevops](https://github.com/marcusquinn/aidevops)** -- Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. Try on your repos for money-making magic.<!-- CONTRIBUTIONS-END -->
 
 ## Connect
 
@@ -91,5 +93,5 @@ _Model savings are modest because ~95.5% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-07-02 23:55 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-07-03 00:54 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
