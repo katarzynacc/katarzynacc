@@ -36,20 +36,20 @@ _AI session 365-day totals cover 62 days of local assistant session history (not
 | claude-sonnet-4-6 | 92,631 | 98K | 33.3M | 6,365.8M | $3,106.65 | $17,187.73 | $9,641.54 |
 | claude-opus-4-6 | 7,773 | 8K | 2.6M | 646.2M | $1,624.04 | $8,723.84 | $0.00 |
 | gpt-5.6-sol | 8,954 | 43.0M | 1.9M | 687.0M | $664.26 | $1,855.14 | $1,456.20 |
-| deepseek-v4-flash-free | 15,576 | 37.0M | 3.2M | 1,307.1M | $594.23 | $3,529.42 | $2,210.98 |
-| claude-sonnet-4-5 | 11,481 | 30K | 2.7M | 447.4M | $244.97 | $1,208.11 | $699.35 |
-| claude-sonnet-4-5 | 2,774 | 34K | 1.0M | 192.9M | $154.01 | $520.84 | $294.67 |
-| gpt-5.5 | 6,347 | 18.5M | 1.0M | 256.2M | $131.08 | $692.00 | $591.33 |
+| deepseek-v4-flash-free | 15,360 | 36.6M | 3.2M | 1,291.9M | $587.22 | $3,488.28 | $2,184.78 |
+| claude-sonnet-4-5 | 10,540 | 27K | 2.4M | 411.4M | $225.04 | $1,110.91 | $642.45 |
+| claude-sonnet-4-5 | 2,766 | 33K | 1.0M | 192.2M | $153.75 | $519.15 | $293.74 |
+| gpt-5.5 | 6,346 | 18.5M | 1.0M | 256.2M | $131.08 | $692.00 | $591.33 |
 | gpt-5.4 | 4,186 | 15.8M | 1.0M | 239.4M | $122.83 | $449.01 | $476.22 |
 | claude-haiku-4-5 | 2,036 | 4K | 408K | 114.1M | $13.20 | $82.20 | $191.19 |
 | gpt-5.6-terra | 769 | 2.9M | 60K | 17.0M | $12.88 | $45.91 | $59.10 |
 | north-mini-code-free | 28 | 915K | 284 | 0 | $2.82 | $0.00 | $11.00 |
 | gpt-5.4-mini | 850 | 2.1M | 122K | 41.6M | $2.34 | $78.10 | $71.77 |
-| **Total** | **153,405** | **120.7M** | **47.6M** | **10,315.2M** | **$6,673.31** | **$34,372.28** | **$15,703.32** |
+| **Total** | **152,239** | **120.2M** | **47.3M** | **10,263.3M** | **$6,646.11** | **$34,232.26** | **$15,619.29** |
 
-_10,736.1M total tokens processed. 96.1% cache hit rate._
+_10,682.0M total tokens processed. 96.1% cache hit rate._
 
-_$50,075.60 total saved ($34,372.28 caching + $15,703.32 model routing vs all-Opus)._
+_$49,851.55 total saved ($34,232.26 caching + $15,619.29 model routing vs all-Opus)._
 
 _Model savings are modest because ~96.1% of tokens are cache reads, where price differences between models are small._
 
@@ -96,5 +96,5 @@ _Model savings are modest because ~95.9% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-07-29 16:44 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-07-29 17:44 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
