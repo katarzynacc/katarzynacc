@@ -37,7 +37,7 @@ _AI session 365-day totals cover 62 days of local assistant session history (not
 | claude-opus-4-6 | 7,773 | 8K | 2.6M | 646.2M | $1,624.04 | $8,723.84 | $0.00 |
 | gpt-5.6-sol | 8,889 | 42.6M | 1.9M | 680.7M | $658.25 | $1,838.06 | $1,442.74 |
 | deepseek-v4-flash-free | 16,083 | 38.3M | 3.4M | 1,345.0M | $612.96 | $3,631.75 | $2,279.86 |
-| claude-sonnet-4-5 | 13,114 | 34K | 3.2M | 521.9M | $287.14 | $1,409.21 | $820.27 |
+| claude-sonnet-4-5 | 13,109 | 34K | 3.2M | 521.9M | $287.04 | $1,409.17 | $820.25 |
 | claude-sonnet-4-5 | 3,186 | 39K | 1.2M | 221.8M | $178.18 | $598.93 | $340.17 |
 | gpt-5.5 | 6,347 | 18.5M | 1.0M | 256.2M | $131.08 | $692.00 | $591.33 |
 | gpt-5.4 | 4,186 | 15.8M | 1.0M | 239.4M | $122.83 | $449.01 | $476.22 |
@@ -45,11 +45,11 @@ _AI session 365-day totals cover 62 days of local assistant session history (not
 | gpt-5.6-terra | 705 | 2.5M | 58K | 16.3M | $11.86 | $44.19 | $54.35 |
 | north-mini-code-free | 28 | 915K | 284 | 0 | $2.82 | $0.00 | $11.00 |
 | gpt-5.4-mini | 850 | 2.1M | 122K | 41.6M | $2.34 | $78.10 | $71.77 |
-| **Total** | **155,771** | **121.2M** | **48.4M** | **10,441.1M** | **$6,747.18** | **$34,712.27** | **$15,909.15** |
+| **Total** | **155,766** | **121.2M** | **48.4M** | **10,441.1M** | **$6,747.08** | **$34,712.23** | **$15,909.13** |
 
-_10,869.7M total tokens processed. 96.1% cache hit rate._
+_10,869.6M total tokens processed. 96.1% cache hit rate._
 
-_$50,621.41 total saved ($34,712.27 caching + $15,909.15 model routing vs all-Opus)._
+_$50,621.36 total saved ($34,712.23 caching + $15,909.13 model routing vs all-Opus)._
 
 _Model savings are modest because ~96.1% of tokens are cache reads, where price differences between models are small._
 
@@ -96,5 +96,5 @@ _Model savings are modest because ~95.9% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-07-29 04:44 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-07-29 05:44 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
