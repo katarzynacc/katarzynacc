@@ -36,8 +36,8 @@ _AI session 365-day totals cover 62 days of local assistant session history (not
 | claude-sonnet-4-6 | 92,631 | 98K | 33.3M | 6,365.8M | $3,106.65 | $17,187.73 | $9,641.54 |
 | claude-opus-4-6 | 7,773 | 8K | 2.6M | 646.2M | $1,624.04 | $8,723.84 | $0.00 |
 | gpt-5.6-sol | 8,954 | 43.0M | 1.9M | 687.0M | $664.26 | $1,855.14 | $1,456.20 |
-| deepseek-v4-flash-free | 15,695 | 37.6M | 3.3M | 1,313.3M | $598.76 | $3,545.99 | $2,227.71 |
-| claude-sonnet-4-5 | 11,610 | 30K | 2.7M | 453.8M | $249.02 | $1,225.34 | $710.49 |
+| deepseek-v4-flash-free | 15,658 | 37.5M | 3.3M | 1,312.0M | $598.12 | $3,542.64 | $2,225.47 |
+| claude-sonnet-4-5 | 11,556 | 30K | 2.7M | 450.6M | $246.97 | $1,216.88 | $704.98 |
 | claude-sonnet-4-5 | 2,783 | 34K | 1.0M | 193.4M | $154.84 | $522.37 | $295.52 |
 | gpt-5.5 | 6,347 | 18.5M | 1.0M | 256.2M | $131.08 | $692.00 | $591.33 |
 | gpt-5.4 | 4,186 | 15.8M | 1.0M | 239.4M | $122.83 | $449.01 | $476.22 |
@@ -45,11 +45,11 @@ _AI session 365-day totals cover 62 days of local assistant session history (not
 | gpt-5.6-terra | 761 | 2.8M | 60K | 16.9M | $12.76 | $45.68 | $58.54 |
 | north-mini-code-free | 28 | 915K | 284 | 0 | $2.82 | $0.00 | $11.00 |
 | gpt-5.4-mini | 850 | 2.1M | 122K | 41.6M | $2.34 | $78.10 | $71.77 |
-| **Total** | **153,654** | **121.2M** | **47.7M** | **10,328.2M** | **$6,682.60** | **$34,407.38** | **$15,731.49** |
+| **Total** | **153,563** | **121.1M** | **47.6M** | **10,323.8M** | **$6,679.91** | **$34,395.57** | **$15,723.74** |
 
-_10,750.3M total tokens processed. 96.1% cache hit rate._
+_10,745.6M total tokens processed. 96.1% cache hit rate._
 
-_$50,138.87 total saved ($34,407.38 caching + $15,731.49 model routing vs all-Opus)._
+_$50,119.32 total saved ($34,395.57 caching + $15,723.74 model routing vs all-Opus)._
 
 _Model savings are modest because ~96.1% of tokens are cache reads, where price differences between models are small._
 
@@ -96,5 +96,5 @@ _Model savings are modest because ~95.9% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-07-29 14:44 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-07-29 15:44 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
