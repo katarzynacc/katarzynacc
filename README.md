@@ -19,7 +19,7 @@
 | Worker/headless AI generation | 18.4h | 53.3h | 660.5h | 1077.3h |
 | Additive observed work | 29.7h | 114.9h | 722.1h | 1,356.7h |
 | Interactive sessions | 7 | 37 | 37 | 397 |
-| Worker sessions | 303 | 1,494 | 4,802 | 9,167 |
+| Worker sessions | 316 | 1,507 | 4,815 | 9,180 |
 
 _Screen time from linux-wtmp:login-session-proxy; collection status: ok. *365-day estimate uses observed calendar coverage._
 
@@ -33,7 +33,7 @@ _AI session 365-day totals cover 65 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 99,393 | 106K | 35.8M | 7,053.6M | $3,432.65 | $19,044.84 | $10,616.81 |
+| claude-sonnet-4-6 | 99,525 | 106K | 35.8M | 7,061.8M | $3,436.30 | $19,067.08 | $10,628.82 |
 | claude-opus-4-6 | 8,625 | 9K | 2.9M | 731.4M | $1,821.00 | $9,875.19 | $0.00 |
 | gpt-5.6-sol | 9,699 | 45.9M | 2.0M | 742.8M | $715.91 | $2,005.61 | $1,567.55 |
 | deepseek-v4-flash-free | 13,547 | 31.3M | 2.8M | 1,150.2M | $516.20 | $3,105.77 | $1,924.49 |
@@ -45,11 +45,12 @@ _AI session 365-day totals cover 65 days of local assistant session history (not
 | gpt-5.6-terra | 1,048 | 3.6M | 82K | 24.1M | $17.04 | $65.15 | $78.09 |
 | north-mini-code-free | 28 | 915K | 284 | 0 | $2.82 | $0.00 | $11.00 |
 | gpt-5.4-mini | 641 | 1.5M | 96K | 32.1M | $1.76 | $60.33 | $53.89 |
-| **Total** | **152,899** | **108.4M** | **48.6M** | **10,756.3M** | **$7,002.36** | **$36,316.63** | **$16,049.64** |
+| gpt-5.6-luna | 9 | 66K | 318 | 69K | $0.08 | $0.19 | $0.89 |
+| **Total** | **153,040** | **108.4M** | **48.6M** | **10,764.6M** | **$7,006.09** | **$36,339.05** | **$16,062.54** |
 
-_11,183.7M total tokens processed. 96.2% cache hit rate._
+_11,192.3M total tokens processed. 96.2% cache hit rate._
 
-_$52,366.26 total saved ($36,316.63 caching + $16,049.64 model routing vs all-Opus)._
+_$52,401.59 total saved ($36,339.05 caching + $16,062.54 model routing vs all-Opus)._
 
 _Model savings are modest because ~96.2% of tokens are cache reads, where price differences between models are small._
 
@@ -57,7 +58,7 @@ _Model savings are modest because ~96.2% of tokens are cache reads, where price 
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 137,591 | 146K | 51.3M | 9,109.2M | $4,503.56 | $24,594.97 | $14,016.35 |
+| claude-sonnet-4-6 | 137,723 | 146K | 51.4M | 9,117.4M | $4,507.21 | $24,617.21 | $14,028.36 |
 | claude-opus-4-6 | 8,962 | 9K | 3.0M | 760.6M | $1,895.69 | $10,269.21 | $0.00 |
 | deepseek-v4-flash-free | 23,861 | 55.5M | 5.2M | 1,966.0M | $901.58 | $5,308.40 | $3,344.25 |
 | gpt-5.6-sol | 9,699 | 45.9M | 2.0M | 742.8M | $715.91 | $2,005.61 | $1,567.55 |
@@ -74,12 +75,13 @@ _Model savings are modest because ~96.2% of tokens are cache reads, where price 
 | claude-opus-4-8 | 39 | 78 | 41K | 2.3M | $11.57 | $31.51 | $0.00 |
 | north-mini-code-free | 42 | 1.3M | 1K | 0 | $4.06 | $0.00 | $15.80 |
 | gpt-5.4-mini | 1,253 | 5.7M | 150K | 47.8M | $3.56 | $89.69 | $124.08 |
+| gpt-5.6-luna | 9 | 66K | 318 | 69K | $0.08 | $0.19 | $0.89 |
 | claude-haiku-4-5 | 4 | 12 | 106 | 14K | $0.05 | $0.01 | $0.03 |
-| **Total** | **265,391** | **176.3M** | **82.6M** | **17,122.9M** | **$10,613.71** | **$54,155.07** | **$26,417.90** |
+| **Total** | **265,532** | **176.4M** | **82.6M** | **17,131.2M** | **$10,617.44** | **$54,177.50** | **$26,430.80** |
 
-_17,852.7M total tokens processed. 95.9% cache hit rate._
+_17,861.3M total tokens processed. 95.9% cache hit rate._
 
-_$80,572.97 total saved ($54,155.07 caching + $26,417.90 model routing vs all-Opus)._
+_$80,608.29 total saved ($54,177.50 caching + $26,430.80 model routing vs all-Opus)._
 
 _Model savings are modest because ~95.9% of tokens are cache reads, where price differences between models are small._
 <!-- STATS-END -->
@@ -96,7 +98,7 @@ _Model savings are modest because ~95.9% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-01 03:02 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-01 04:01 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
