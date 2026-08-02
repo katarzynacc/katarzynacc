@@ -19,7 +19,7 @@
 | Worker/headless AI generation | 17.7h | 68.5h | 658.8h | 1095.0h |
 | Additive observed work | 25.1h | 128.8h | 727.7h | 1,381.7h |
 | Interactive sessions | 2 | 36 | 38 | 398 |
-| Worker sessions | 355 | 1,612 | 4,928 | 9,461 |
+| Worker sessions | 363 | 1,620 | 4,936 | 9,469 |
 
 _Screen time from linux-wtmp:login-session-proxy; collection status: ok. *365-day estimate uses observed calendar coverage._
 
@@ -36,21 +36,21 @@ _AI session 365-day totals cover 66 days of local assistant session history (not
 | claude-sonnet-4-6 | 98,165 | 105K | 35.4M | 7,174.7M | $3,474.22 | $19,371.77 | $10,740.62 |
 | claude-opus-4-6 | 8,631 | 9K | 2.9M | 734.3M | $1,828.60 | $9,913.40 | $0.00 |
 | gpt-5.6-sol | 11,232 | 53.7M | 2.4M | 850.0M | $824.27 | $2,295.04 | $1,809.73 |
-| deepseek-v4-flash-free | 12,641 | 28.9M | 2.6M | 1,075.8M | $481.23 | $2,904.69 | $1,795.12 |
+| deepseek-v4-flash-free | 12,496 | 28.6M | 2.5M | 1,067.2M | $476.99 | $2,881.69 | $1,779.46 |
 | claude-sonnet-4-5 | 2,384 | 29K | 876K | 166.9M | $132.52 | $450.65 | $253.24 |
 | gpt-5.4 | 4,186 | 15.8M | 1.0M | 239.4M | $122.83 | $449.01 | $476.22 |
-| claude-sonnet-4-5 | 5,348 | 12K | 1.3M | 225.7M | $119.30 | $609.40 | $352.34 |
-| gpt-5.5 | 1,959 | 5.4M | 324K | 81.6M | $40.64 | $220.47 | $183.30 |
+| claude-sonnet-4-5 | 5,235 | 12K | 1.3M | 222.0M | $117.18 | $599.53 | $346.36 |
+| gpt-5.5 | 1,874 | 5.2M | 305K | 76.4M | $38.41 | $206.30 | $173.26 |
 | claude-haiku-4-5 | 3,579 | 12K | 693K | 202.8M | $25.83 | $146.05 | $337.46 |
 | gpt-5.6-terra | 1,048 | 3.6M | 82K | 24.1M | $17.04 | $65.15 | $78.09 |
 | north-mini-code-free | 28 | 915K | 284 | 0 | $2.82 | $0.00 | $11.00 |
-| gpt-5.6-luna | 250 | 1.7M | 18K | 3.6M | $2.37 | $9.94 | $26.92 |
+| gpt-5.6-luna | 258 | 1.8M | 18K | 3.7M | $2.45 | $10.09 | $27.80 |
 | gpt-5.4-mini | 601 | 1.4M | 92K | 31.0M | $1.67 | $58.25 | $51.71 |
-| **Total** | **150,052** | **112.1M** | **47.9M** | **10,810.3M** | **$7,073.34** | **$36,493.82** | **$16,115.75** |
+| **Total** | **149,717** | **111.6M** | **47.8M** | **10,792.9M** | **$7,064.83** | **$36,446.93** | **$16,084.93** |
 
-_11,241.4M total tokens processed. 96.2% cache hit rate._
+_11,223.3M total tokens processed. 96.2% cache hit rate._
 
-_$52,609.57 total saved ($36,493.82 caching + $16,115.75 model routing vs all-Opus)._
+_$52,531.86 total saved ($36,446.93 caching + $16,084.93 model routing vs all-Opus)._
 
 _Model savings are modest because ~96.2% of tokens are cache reads, where price differences between models are small._
 
@@ -75,13 +75,13 @@ _Model savings are modest because ~96.2% of tokens are cache reads, where price 
 | claude-opus-4-8 | 39 | 78 | 41K | 2.3M | $11.57 | $31.51 | $0.00 |
 | north-mini-code-free | 42 | 1.3M | 1K | 0 | $4.06 | $0.00 | $15.80 |
 | gpt-5.4-mini | 1,253 | 5.7M | 150K | 47.8M | $3.56 | $89.69 | $124.08 |
-| gpt-5.6-luna | 250 | 1.7M | 18K | 3.6M | $2.37 | $9.94 | $26.92 |
+| gpt-5.6-luna | 258 | 1.8M | 18K | 3.7M | $2.45 | $10.09 | $27.80 |
 | claude-haiku-4-5 | 4 | 12 | 106 | 14K | $0.05 | $0.01 | $0.03 |
-| **Total** | **268,671** | **185.9M** | **83.5M** | **17,520.2M** | **$10,872.91** | **$55,418.07** | **$27,037.06** |
+| **Total** | **268,679** | **186.0M** | **83.5M** | **17,520.2M** | **$10,872.99** | **$55,418.22** | **$27,037.93** |
 
-_18,267.0M total tokens processed. 95.9% cache hit rate._
+_18,267.1M total tokens processed. 95.9% cache hit rate._
 
-_$82,455.13 total saved ($55,418.07 caching + $27,037.06 model routing vs all-Opus)._
+_$82,456.15 total saved ($55,418.22 caching + $27,037.93 model routing vs all-Opus)._
 
 _Model savings are modest because ~95.9% of tokens are cache reads, where price differences between models are small._
 <!-- STATS-END -->
@@ -98,7 +98,7 @@ _Model savings are modest because ~95.9% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-02 08:19 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-02 09:19 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
