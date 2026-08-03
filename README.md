@@ -33,10 +33,10 @@ _AI session 365-day totals cover 67 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 99,553 | 106K | 36.2M | 7,608.1M | $3,653.77 | $20,541.89 | $11,308.56 |
+| claude-sonnet-4-6 | 99,540 | 106K | 36.2M | 7,611.5M | $3,656.44 | $20,551.26 | $11,312.46 |
 | claude-opus-4-6 | 8,633 | 9K | 2.9M | 734.3M | $1,829.13 | $9,913.40 | $0.00 |
 | gpt-5.6-sol | 11,232 | 53.7M | 2.4M | 850.0M | $824.27 | $2,295.04 | $1,809.73 |
-| deepseek-v4-flash-free | 11,759 | 26.8M | 2.4M | 1,003.9M | $449.87 | $2,710.66 | $1,673.43 |
+| deepseek-v4-flash-free | 11,563 | 26.6M | 2.3M | 984.0M | $441.73 | $2,656.92 | $1,644.28 |
 | gpt-5.4 | 4,186 | 15.8M | 1.0M | 239.4M | $122.83 | $449.01 | $476.22 |
 | claude-sonnet-4-5 | 2,074 | 25K | 681K | 144.3M | $106.97 | $389.77 | $214.45 |
 | claude-sonnet-4-5 | 2,102 | 5K | 523K | 81.7M | $44.40 | $220.85 | $129.65 |
@@ -46,11 +46,11 @@ _AI session 365-day totals cover 67 days of local assistant session history (not
 | gpt-5.6-luna | 445 | 3.5M | 25K | 4.8M | $4.41 | $13.10 | $50.14 |
 | north-mini-code-free | 28 | 915K | 284 | 0 | $2.82 | $0.00 | $11.00 |
 | gpt-5.4-mini | 519 | 1.2M | 82K | 25.5M | $1.41 | $47.95 | $43.59 |
-| **Total** | **147,055** | **110.4M** | **47.5M** | **10,994.0M** | **$7,115.59** | **$36,962.82** | **$16,297.53** |
+| **Total** | **146,846** | **110.1M** | **47.5M** | **10,977.6M** | **$7,110.12** | **$36,918.45** | **$16,272.28** |
 
-_11,424.3M total tokens processed. 96.2% cache hit rate._
+_11,408.0M total tokens processed. 96.2% cache hit rate._
 
-_$53,260.35 total saved ($36,962.82 caching + $16,297.53 model routing vs all-Opus)._
+_$53,190.73 total saved ($36,918.45 caching + $16,272.28 model routing vs all-Opus)._
 
 _Model savings are modest because ~96.2% of tokens are cache reads, where price differences between models are small._
 
@@ -58,7 +58,7 @@ _Model savings are modest because ~96.2% of tokens are cache reads, where price 
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 143,042 | 152K | 53.5M | 9,937.7M | $4,859.96 | $26,832.00 | $15,137.50 |
+| claude-sonnet-4-6 | 143,051 | 152K | 53.5M | 9,941.9M | $4,863.22 | $26,843.28 | $15,142.69 |
 | claude-opus-4-6 | 9,101 | 9K | 3.1M | 778.3M | $1,933.88 | $10,507.33 | $0.00 |
 | deepseek-v4-flash-free | 24,207 | 56.7M | 5.3M | 1,995.7M | $917.50 | $5,388.59 | $3,399.82 |
 | gpt-5.6-sol | 11,232 | 53.7M | 2.4M | 850.0M | $824.27 | $2,295.04 | $1,809.73 |
@@ -77,11 +77,11 @@ _Model savings are modest because ~96.2% of tokens are cache reads, where price 
 | north-mini-code-free | 42 | 1.3M | 1K | 0 | $4.06 | $0.00 | $15.80 |
 | gpt-5.4-mini | 1,253 | 5.7M | 150K | 47.8M | $3.56 | $89.69 | $124.08 |
 | claude-haiku-4-5 | 4 | 12 | 106 | 14K | $0.05 | $0.01 | $0.03 |
-| **Total** | **273,611** | **188.9M** | **85.3M** | **18,126.8M** | **$11,139.09** | **$57,024.44** | **$27,913.96** |
+| **Total** | **273,620** | **188.9M** | **85.3M** | **18,131.0M** | **$11,142.35** | **$57,035.72** | **$27,919.15** |
 
-_18,893.1M total tokens processed. 95.9% cache hit rate._
+_18,897.8M total tokens processed. 95.9% cache hit rate._
 
-_$84,938.40 total saved ($57,024.44 caching + $27,913.96 model routing vs all-Opus)._
+_$84,954.87 total saved ($57,035.72 caching + $27,919.15 model routing vs all-Opus)._
 
 _Model savings are modest because ~95.9% of tokens are cache reads, where price differences between models are small._
 <!-- STATS-END -->
@@ -98,7 +98,7 @@ _Model savings are modest because ~95.9% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-03 18:51 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-03 19:51 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
