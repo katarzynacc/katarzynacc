@@ -12,14 +12,14 @@
 
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Screen time (Linux) | 24h | 167.6h | 623.4h | ~7393h* |
-| Interactive human attention | 0.0h | 19.4h | 37.7h | 153.8h |
-| Interactive AI generation | 0.0h | 46.3h | 78.2h | 160.8h |
-| Worker-classified human attention | 0.0h | 4.7h | 4.9h | 29.7h |
-| Worker/headless AI generation | 0.0h | 118.4h | 602.4h | 1177.4h |
-| Additive observed work | 0.0h | 188.1h | 722.4h | 1,515.1h |
-| Interactive sessions | 0 | 29 | 59 | 419 |
-| Worker sessions | 0 | 1,375 | 4,823 | 10,238 |
+| Screen time (Linux) | 24h | 167.6h | 647.4h | ~7393h* |
+| Interactive human attention | 0.0h | 14.1h | 37.7h | 153.8h |
+| Interactive AI generation | 0.0h | 41.3h | 78.2h | 160.8h |
+| Worker-classified human attention | 0.0h | 3.0h | 4.9h | 29.7h |
+| Worker/headless AI generation | 0.0h | 100.1h | 541.6h | 1177.4h |
+| Additive observed work | 0.0h | 158.4h | 661.5h | 1,515.1h |
+| Interactive sessions | 0 | 23 | 59 | 419 |
+| Worker sessions | 0 | 1,134 | 4,420 | 10,238 |
 
 _Screen time from linux-wtmp:login-session-proxy; collection status: ok. *365-day estimate uses observed calendar coverage._
 
@@ -96,7 +96,7 @@ _Model savings are modest because ~95.9% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-07 02:38 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-07 22:38 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
