@@ -12,7 +12,7 @@
 
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Screen time (Linux) | 24h | 167.6h | 623.4h | ~7378h* |
+| Screen time (Linux) | 24h | 167.6h | 623.4h | ~7393h* |
 | Interactive human attention | 0.0h | 19.4h | 37.7h | 153.8h |
 | Interactive AI generation | 0.0h | 46.3h | 78.2h | 160.8h |
 | Worker-classified human attention | 0.0h | 4.7h | 4.9h | 29.7h |
@@ -33,7 +33,7 @@ _AI session 365-day totals cover 70 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 93,285 | 100K | 33.7M | 7,806.2M | $3,729.55 | $21,076.75 | $11,392.73 |
+| claude-sonnet-4-6 | 93,188 | 100K | 33.6M | 7,802.7M | $3,727.09 | $21,067.53 | $11,386.15 |
 | claude-opus-4-6 | 7,750 | 8K | 2.5M | 702.7M | $1,721.44 | $9,487.77 | $0.00 |
 | gpt-5.6-sol | 11,232 | 53.7M | 2.4M | 850.0M | $824.27 | $2,295.04 | $1,809.73 |
 | deepseek-v4-flash-free | 9,178 | 20.3M | 1.8M | 795.3M | $350.14 | $2,147.57 | $1,308.70 |
@@ -44,11 +44,11 @@ _AI session 365-day totals cover 70 days of local assistant session history (not
 | gpt-5.6-luna | 470 | 3.8M | 26K | 4.9M | $4.71 | $13.40 | $53.54 |
 | north-mini-code-free | 28 | 915K | 284 | 0 | $2.82 | $0.00 | $11.00 |
 | gpt-5.4-mini | 231 | 686K | 32K | 10.2M | $0.63 | $19.19 | $19.66 |
-| **Total** | **129,303** | **92.6M** | **42.1M** | **10,560.2M** | **$6,800.55** | **$35,696.28** | **$15,307.76** |
+| **Total** | **129,206** | **92.6M** | **42.1M** | **10,556.8M** | **$6,798.09** | **$35,687.06** | **$15,301.19** |
 
-_10,968.5M total tokens processed. 96.3% cache hit rate._
+_10,964.8M total tokens processed. 96.3% cache hit rate._
 
-_$51,004.04 total saved ($35,696.28 caching + $15,307.76 model routing vs all-Opus)._
+_$50,988.24 total saved ($35,687.06 caching + $15,301.19 model routing vs all-Opus)._
 
 _Model savings are modest because ~96.3% of tokens are cache reads, where price differences between models are small._
 
@@ -96,7 +96,7 @@ _Model savings are modest because ~95.9% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-06 23:38 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-07 00:38 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
