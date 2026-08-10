@@ -33,20 +33,20 @@ _AI session 365-day totals cover 39 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 77,596 | 83K | 28.0M | 7,090.7M | $3,359.59 | $19,144.96 | $10,195.19 |
+| claude-sonnet-4-6 | 76,591 | 82K | 27.6M | 7,044.4M | $3,333.75 | $19,020.06 | $10,114.53 |
 | claude-opus-4-6 | 7,371 | 8K | 2.4M | 681.3M | $1,658.66 | $9,198.00 | $0.00 |
-| gpt-5.6-sol | 11,403 | 55.4M | 2.5M | 934.6M | $884.27 | $2,523.61 | $1,937.70 |
-| deepseek-v4-flash-free | 7,673 | 16.6M | 1.5M | 662.9M | $291.90 | $1,789.83 | $1,087.96 |
+| gpt-5.6-sol | 11,330 | 55.2M | 2.4M | 931.4M | $881.04 | $2,514.93 | $1,930.32 |
+| deepseek-v4-flash-free | 7,527 | 16.4M | 1.5M | 653.7M | $287.58 | $1,765.22 | $1,072.05 |
 | claude-sonnet-4-5 | 1,098 | 14K | 355K | 77.7M | $56.35 | $209.88 | $114.78 |
 | gpt-5.6-terra | 2,093 | 9.2M | 359K | 84.1M | $53.49 | $227.19 | $233.14 |
 | claude-haiku-4-5 | 2,405 | 13K | 451K | 131.8M | $18.06 | $94.95 | $219.53 |
 | gpt-5.6-luna | 951 | 7.4M | 76K | 23.9M | $11.19 | $64.58 | $122.24 |
 | north-mini-code-free | 28 | 915K | 284 | 0 | $2.82 | $0.00 | $11.00 |
-| **Total** | **110,618** | **89.8M** | **35.8M** | **9,687.2M** | **$6,336.33** | **$33,253.00** | **$13,921.54** |
+| **Total** | **109,394** | **89.3M** | **35.3M** | **9,628.7M** | **$6,302.94** | **$33,094.81** | **$13,817.59** |
 
-_10,066.4M total tokens processed. 96.2% cache hit rate._
+_10,005.3M total tokens processed. 96.2% cache hit rate._
 
-_$47,174.54 total saved ($33,253.00 caching + $13,921.54 model routing vs all-Opus)._
+_$46,912.39 total saved ($33,094.81 caching + $13,817.59 model routing vs all-Opus)._
 
 _Model savings are modest because ~96.2% of tokens are cache reads, where price differences between models are small._
 
@@ -88,7 +88,7 @@ _Model savings are modest because ~96.1% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-10 12:02 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-10 13:02 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
