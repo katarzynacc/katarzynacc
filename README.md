@@ -33,19 +33,19 @@ _AI session 365-day totals cover 40 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 71,826 | 77K | 26.0M | 6,755.5M | $3,190.60 | $18,239.96 | $9,669.87 |
+| claude-sonnet-4-6 | 71,380 | 77K | 25.8M | 6,732.7M | $3,178.43 | $18,178.36 | $9,631.60 |
 | claude-opus-4-6 | 7,371 | 8K | 2.4M | 681.3M | $1,658.66 | $9,198.00 | $0.00 |
 | gpt-5.6-sol | 11,060 | 54.1M | 2.4M | 918.5M | $867.32 | $2,479.96 | $1,898.94 |
 | deepseek-v4-flash-free | 6,935 | 13.6M | 1.3M | 610.0M | $262.24 | $1,647.02 | $978.99 |
 | gpt-5.6-terra | 2,093 | 9.2M | 359K | 84.1M | $53.49 | $227.19 | $233.14 |
-| claude-sonnet-4-5 | 908 | 11K | 272K | 64.2M | $46.04 | $173.44 | $93.55 |
+| claude-sonnet-4-5 | 892 | 11K | 268K | 63.9M | $45.79 | $172.56 | $92.97 |
 | claude-haiku-4-5 | 2,405 | 13K | 451K | 131.8M | $18.06 | $94.95 | $219.53 |
 | gpt-5.6-luna | 975 | 7.5M | 76K | 24.1M | $11.40 | $65.11 | $124.55 |
-| **Total** | **103,573** | **84.7M** | **33.4M** | **9,269.7M** | **$6,107.81** | **$32,125.62** | **$13,218.56** |
+| **Total** | **103,111** | **84.7M** | **33.2M** | **9,246.6M** | **$6,095.39** | **$32,063.14** | **$13,179.71** |
 
-_9,630.1M total tokens processed. 96.3% cache hit rate._
+_9,606.0M total tokens processed. 96.3% cache hit rate._
 
-_$45,344.18 total saved ($32,125.62 caching + $13,218.56 model routing vs all-Opus)._
+_$45,242.85 total saved ($32,063.14 caching + $13,179.71 model routing vs all-Opus)._
 
 _Model savings are modest because ~96.3% of tokens are cache reads, where price differences between models are small._
 
@@ -87,7 +87,7 @@ _Model savings are modest because ~96.1% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-11 08:01 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-11 09:01 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
