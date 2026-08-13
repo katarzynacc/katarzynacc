@@ -33,19 +33,19 @@ _AI session 365-day totals cover 42 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 60,406 | 65K | 22.2M | 6,097.6M | $2,918.60 | $16,463.60 | $8,653.40 |
-| claude-opus-4-6 | 6,500 | 7K | 2.1M | 594.2M | $1,471.77 | $8,021.87 | $0.00 |
+| claude-sonnet-4-6 | 60,238 | 65K | 22.1M | 6,084.9M | $2,912.68 | $16,429.37 | $8,634.26 |
+| claude-opus-4-6 | 6,470 | 7K | 2.1M | 587.9M | $1,461.13 | $7,936.69 | $0.00 |
 | gpt-5.6-sol | 9,846 | 49.7M | 2.2M | 818.2M | $789.22 | $2,209.32 | $1,712.72 |
 | deepseek-v4-flash-free | 5,692 | 11.5M | 1.1M | 511.6M | $220.17 | $1,381.35 | $821.01 |
 | gpt-5.6-terra | 2,973 | 13.8M | 618K | 147.3M | $87.67 | $397.84 | $379.77 |
 | claude-haiku-4-5 | 2,323 | 13K | 427K | 124.4M | $17.22 | $89.59 | $207.25 |
 | gpt-5.6-luna | 1,313 | 11.2M | 122K | 29.8M | $16.54 | $80.56 | $178.16 |
 | claude-sonnet-4-5 | 112 | 1K | 28K | 6.0M | $4.56 | $16.30 | $8.99 |
-| **Total** | **89,165** | **86.5M** | **28.9M** | **8,329.3M** | **$5,525.75** | **$28,660.44** | **$11,961.29** |
+| **Total** | **88,967** | **86.5M** | **28.9M** | **8,310.3M** | **$5,509.19** | **$28,541.04** | **$11,942.15** |
 
-_8,674.7M total tokens processed. 96% cache hit rate._
+_8,655.3M total tokens processed. 96% cache hit rate._
 
-_$40,621.73 total saved ($28,660.44 caching + $11,961.29 model routing vs all-Opus)._
+_$40,483.19 total saved ($28,541.04 caching + $11,942.15 model routing vs all-Opus)._
 
 _Model savings are modest because ~96% of tokens are cache reads, where price differences between models are small._
 
@@ -87,7 +87,7 @@ _Model savings are modest because ~96% of tokens are cache reads, where price di
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-13 01:04 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-13 02:04 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
