@@ -33,18 +33,18 @@ _AI session 365-day totals cover 45 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 57,857 | 63K | 21.4M | 6,681.5M | $3,168.87 | $18,040.14 | $9,308.31 |
-| claude-opus-4-6 | 3,781 | 4K | 1.3M | 363.6M | $988.65 | $4,909.41 | $0.00 |
+| claude-sonnet-4-6 | 57,728 | 63K | 21.4M | 6,677.1M | $3,166.30 | $18,028.26 | $9,300.39 |
+| claude-opus-4-6 | 3,749 | 4K | 1.3M | 361.9M | $983.92 | $4,886.66 | $0.00 |
 | gpt-5.6-sol | 7,113 | 37.5M | 1.6M | 626.2M | $598.04 | $1,690.88 | $1,301.74 |
-| deepseek-v4-flash-free | 3,521 | 8.4M | 761K | 313.2M | $140.41 | $845.66 | $522.78 |
+| deepseek-v4-flash-free | 3,321 | 8.1M | 733K | 292.6M | $132.60 | $790.10 | $493.33 |
 | gpt-5.6-terra | 3,329 | 16.4M | 699K | 159.4M | $99.61 | $430.39 | $430.12 |
 | gpt-5.6-luna | 1,754 | 16.4M | 139K | 31.2M | $22.31 | $84.41 | $243.28 |
 | claude-haiku-4-5 | 2,357 | 13K | 441K | 127.8M | $17.66 | $92.02 | $213.00 |
-| **Total** | **79,712** | **78.9M** | **26.5M** | **8,303.1M** | **$5,035.55** | **$26,092.91** | **$12,019.22** |
+| **Total** | **79,351** | **78.6M** | **26.4M** | **8,276.4M** | **$5,020.44** | **$26,002.73** | **$11,981.85** |
 
-_8,657.0M total tokens processed. 95.9% cache hit rate._
+_8,629.8M total tokens processed. 95.9% cache hit rate._
 
-_$38,112.13 total saved ($26,092.91 caching + $12,019.22 model routing vs all-Opus)._
+_$37,984.58 total saved ($26,002.73 caching + $11,981.85 model routing vs all-Opus)._
 
 _Model savings are modest because ~95.9% of tokens are cache reads, where price differences between models are small._
 
@@ -86,7 +86,7 @@ _Model savings are modest because ~96% of tokens are cache reads, where price di
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-16 06:26 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-16 07:26 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
