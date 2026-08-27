@@ -35,7 +35,7 @@ _AI session 365-day totals cover 56 days of local assistant session history (not
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | claude-sonnet-4-6 | 58,882 | 64K | 22.2M | 7,037.5M | $3,368.44 | $19,001.50 | $9,781.96 |
 | claude-opus-4-6 | 4,063 | 4K | 1.4M | 414.8M | $942.68 | $5,600.71 | $0.00 |
-| gpt-5.6-sol | 4,845 | 23.1M | 1.0M | 445.4M | $400.44 | $1,202.70 | $876.63 |
+| gpt-5.6-sol | 4,841 | 23.1M | 1.0M | 445.4M | $400.18 | $1,202.66 | $876.01 |
 | claude-opus-4-8 | 318 | 632 | 311K | 54.9M | $197.55 | $742.48 | $0.00 |
 | gpt-5.6-terra | 3,854 | 20.3M | 954K | 211.1M | $103.33 | $570.05 | $555.19 |
 | x-preview-f-free | 1,238 | 5.5M | 296K | 172.5M | $76.26 | $465.87 | $291.04 |
@@ -44,11 +44,11 @@ _AI session 365-day totals cover 56 days of local assistant session history (not
 | claude-haiku-4-5 | 2,856 | 16K | 551K | 160.9M | $21.46 | $115.91 | $267.99 |
 | gpt-5.5-fast | 366 | 1.7M | 88K | 39.5M | $15.85 | $106.73 | $73.17 |
 | gpt-5.6-luna | 3,117 | 29.6M | 218K | 43.6M | $7.76 | $117.87 | $421.33 |
-| **Total** | **80,719** | **88.5M** | **27.4M** | **8,690.2M** | **$5,198.10** | **$28,219.50** | **$12,511.61** |
+| **Total** | **80,715** | **88.5M** | **27.4M** | **8,690.2M** | **$5,197.84** | **$28,219.45** | **$12,510.99** |
 
-_9,075.1M total tokens processed. 95.8% cache hit rate._
+_9,075.0M total tokens processed. 95.8% cache hit rate._
 
-_$40,731.11 total saved ($28,219.50 caching + $12,511.61 model routing vs all-Opus)._
+_$40,730.44 total saved ($28,219.45 caching + $12,510.99 model routing vs all-Opus)._
 
 _Model savings are modest because ~95.8% of tokens are cache reads, where price differences between models are small._
 
@@ -94,7 +94,7 @@ _Model savings are modest because ~96% of tokens are cache reads, where price di
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-27 17:17 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-27 17:28 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
