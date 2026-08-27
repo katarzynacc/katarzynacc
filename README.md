@@ -33,9 +33,9 @@ _AI session 365-day totals cover 56 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 58,882 | 64K | 22.2M | 7,037.5M | $3,368.44 | $19,001.50 | $9,781.96 |
+| claude-sonnet-4-6 | 58,874 | 64K | 22.2M | 7,036.3M | $3,366.47 | $18,998.19 | $9,780.40 |
 | claude-opus-4-6 | 4,063 | 4K | 1.4M | 414.8M | $942.68 | $5,600.71 | $0.00 |
-| gpt-5.6-sol | 4,564 | 22.0M | 1.0M | 421.1M | $380.05 | $1,137.01 | $830.41 |
+| gpt-5.6-sol | 4,465 | 21.5M | 986K | 408.2M | $369.85 | $1,102.16 | $807.23 |
 | claude-opus-4-8 | 318 | 632 | 311K | 54.9M | $197.55 | $742.48 | $0.00 |
 | gpt-5.6-terra | 3,846 | 20.3M | 953K | 211.0M | $103.24 | $569.83 | $554.63 |
 | x-preview-f-free | 1,238 | 5.5M | 296K | 172.5M | $76.26 | $465.87 | $291.04 |
@@ -44,11 +44,11 @@ _AI session 365-day totals cover 56 days of local assistant session history (not
 | claude-haiku-4-5 | 2,856 | 16K | 551K | 160.9M | $21.46 | $115.91 | $267.99 |
 | gpt-5.5-fast | 366 | 1.7M | 88K | 39.5M | $15.85 | $106.73 | $73.17 |
 | gpt-5.6-luna | 3,125 | 29.7M | 218K | 43.7M | $7.78 | $118.05 | $422.07 |
-| **Total** | **80,438** | **87.4M** | **27.3M** | **8,665.9M** | **$5,177.64** | **$28,153.77** | **$12,465.57** |
+| **Total** | **80,331** | **86.9M** | **27.3M** | **8,651.7M** | **$5,165.47** | **$28,115.61** | **$12,440.83** |
 
-_9,049.6M total tokens processed. 95.8% cache hit rate._
+_9,034.5M total tokens processed. 95.8% cache hit rate._
 
-_$40,619.34 total saved ($28,153.77 caching + $12,465.57 model routing vs all-Opus)._
+_$40,556.44 total saved ($28,115.61 caching + $12,440.83 model routing vs all-Opus)._
 
 _Model savings are modest because ~95.8% of tokens are cache reads, where price differences between models are small._
 
@@ -94,7 +94,7 @@ _Model savings are modest because ~96% of tokens are cache reads, where price di
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-27 18:28 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-27 18:49 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
