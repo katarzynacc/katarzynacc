@@ -33,8 +33,8 @@ _AI session 365-day totals cover 59 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 52,702 | 57K | 20.0M | 6,444.0M | $3,089.42 | $17,398.89 | $8,936.59 |
-| claude-opus-4-6 | 3,606 | 3K | 1.2M | 383.1M | $863.89 | $5,172.32 | $0.00 |
+| claude-sonnet-4-6 | 52,555 | 57K | 19.9M | 6,429.8M | $3,082.10 | $17,360.61 | $8,916.31 |
+| claude-opus-4-6 | 3,519 | 3K | 1.2M | 371.8M | $842.84 | $5,020.19 | $0.00 |
 | gpt-5.6-sol | 3,861 | 19.2M | 867K | 365.3M | $329.80 | $986.37 | $721.97 |
 | claude-opus-4-8 | 357 | 708 | 367K | 69.8M | $237.10 | $942.89 | $0.00 |
 | gpt-5.6-terra | 4,581 | 28.0M | 1.1M | 295.9M | $140.86 | $799.15 | $763.09 |
@@ -45,11 +45,11 @@ _AI session 365-day totals cover 59 days of local assistant session history (not
 | claude-haiku-4-5 | 2,017 | 11K | 394K | 119.9M | $15.92 | $86.37 | $198.53 |
 | gpt-5.5-fast | 366 | 1.7M | 88K | 39.5M | $15.85 | $106.73 | $73.17 |
 | gpt-5.6-luna | 3,473 | 30.8M | 234K | 47.9M | $8.15 | $129.34 | $441.25 |
-| **Total** | **73,509** | **95.6M** | **25.0M** | **8,073.9M** | **$4,878.07** | **$26,454.19** | **$11,728.73** |
+| **Total** | **73,275** | **95.6M** | **24.9M** | **8,048.4M** | **$4,849.70** | **$26,263.78** | **$11,708.45** |
 
-_8,443.3M total tokens processed. 95.6% cache hit rate._
+_8,417.1M total tokens processed. 95.6% cache hit rate._
 
-_$38,182.92 total saved ($26,454.19 caching + $11,728.73 model routing vs all-Opus)._
+_$37,972.24 total saved ($26,263.78 caching + $11,708.45 model routing vs all-Opus)._
 
 _Model savings are modest because ~95.6% of tokens are cache reads, where price differences between models are small._
 
@@ -96,7 +96,7 @@ _Model savings are modest because ~95.9% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-30 12:59 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-30 13:25 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
