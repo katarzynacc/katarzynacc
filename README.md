@@ -33,7 +33,7 @@ _AI session 365-day totals cover 61 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 54,533 | 59K | 20.5M | 6,326.9M | $3,044.10 | $17,082.79 | $8,826.55 |
+| claude-sonnet-4-6 | 54,458 | 59K | 20.5M | 6,313.6M | $3,037.91 | $17,046.73 | $8,808.86 |
 | claude-opus-4-6 | 3,491 | 3K | 1.2M | 359.8M | $839.48 | $4,857.53 | $0.00 |
 | claude-opus-4-8 | 357 | 708 | 367K | 69.8M | $237.10 | $942.89 | $0.00 |
 | gpt-5.6-sol | 2,329 | 11.4M | 537K | 258.1M | $221.49 | $696.95 | $479.92 |
@@ -43,13 +43,13 @@ _AI session 365-day totals cover 61 days of local assistant session history (not
 | deepseek-v4-flash-free | 553 | 2.8M | 162K | 46.7M | $27.13 | $126.31 | $99.82 |
 | nemotron-3-ultra-free | 198 | 4.6M | 13K | 25.0M | $21.95 | $67.58 | $87.00 |
 | gpt-5.5-fast | 366 | 1.7M | 88K | 39.5M | $15.85 | $106.73 | $73.17 |
-| gpt-5.6-luna | 3,451 | 29.5M | 229K | 47.3M | $7.91 | $127.81 | $425.69 |
-| claude-haiku-4-5 | 1,104 | 6K | 228K | 61.5M | $7.38 | $44.31 | $103.68 |
-| **Total** | **73,426** | **94.0M** | **25.1M** | **7,824.5M** | **$4,744.78** | **$25,644.84** | **$11,433.11** |
+| gpt-5.6-luna | 3,443 | 29.5M | 229K | 47.2M | $7.90 | $127.66 | $424.82 |
+| claude-haiku-4-5 | 1,103 | 6K | 228K | 61.5M | $7.37 | $44.31 | $103.68 |
+| **Total** | **73,342** | **93.9M** | **25.1M** | **7,811.1M** | **$4,738.57** | **$25,608.63** | **$11,414.54** |
 
-_8,185.4M total tokens processed. 95.6% cache hit rate._
+_8,171.4M total tokens processed. 95.6% cache hit rate._
 
-_$37,077.95 total saved ($25,644.84 caching + $11,433.11 model routing vs all-Opus)._
+_$37,023.18 total saved ($25,608.63 caching + $11,414.54 model routing vs all-Opus)._
 
 _Model savings are modest because ~95.6% of tokens are cache reads, where price differences between models are small._
 
@@ -96,7 +96,7 @@ _Model savings are modest because ~95.9% of tokens are cache reads, where price 
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-09-01 13:00 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-09-01 14:00 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
