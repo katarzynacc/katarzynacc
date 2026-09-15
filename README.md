@@ -12,22 +12,22 @@
 
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Screen time (Linux) | 24h | 167.9h | 607.7h | ~7435h* |
-| Interactive human attention | 8.3h | 16.7h | 49.1h | 112.4h |
-| Interactive AI generation | 3.6h | 21.8h | 95.0h | 268.3h |
-| Worker-classified human attention | 0.4h | 4.3h | 28.9h | 35.9h |
-| Worker/headless AI generation | 15.7h | 85.7h | 315.0h | 1246.9h |
-| Additive observed work | 27.8h | 127.9h | 485.9h | 1,660.4h |
-| Interactive sessions | 1 | 4 | 37 | 119 |
-| Worker sessions | 233 | 1,192 | 5,065 | 13,472 |
+| Screen time (Linux) | 24h | 167.9h | 569.9h | ~7435h* |
+| Interactive human attention | 2.9h | 17.3h | 48.7h | 115.3h |
+| Interactive AI generation | 2.2h | 13.5h | 85.3h | 270.5h |
+| Worker-classified human attention | 0.0h | 3.6h | 27.1h | 35.9h |
+| Worker/headless AI generation | 1.9h | 71.6h | 310.5h | 1248.8h |
+| Additive observed work | 7.0h | 105.3h | 470.4h | 1,667.5h |
+| Interactive sessions | 1 | 4 | 35 | 119 |
+| Worker sessions | 148 | 1,042 | 4,861 | 13,472 |
 
-_Screen time from screen-time-history:daily-observations; collection status: ok. *365-day estimate uses observed calendar coverage._
+_Screen time from linux-wtmp:login-session-proxy; collection status: ok. *365-day estimate uses observed calendar coverage._
 
 _Periods are completed local calendar days ending at midnight; today is excluded._
 
 _Human attention is unioned wall-clock time, so overlapping sessions are not double-counted. AI generation is additive machine work across sessions; it is not wall-clock concurrency._
 
-_AI session 365-day totals cover 75 days of local assistant session history (not extrapolated)._
+_AI session 365-day totals cover 76 days of local assistant session history (not extrapolated)._
 
 ## AI Model Usage (last 30 days)
 
@@ -90,7 +90,7 @@ _24,688.5M total tokens processed. 99% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-09-15 21:52 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-09-15 22:02 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
