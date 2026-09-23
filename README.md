@@ -33,7 +33,7 @@ _AI session 365-day totals cover 83 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 61,815 | 66K | 17.9M | 7,387.8M | 100.0% | 1,513 | 323.3h |
+| claude-sonnet-4-6 | 61,809 | 66K | 17.9M | 7,387.6M | 100.0% | 1,513 | 323.2h |
 | gpt-5.6-terra | 3,789 | 28.1M | 810K | 359.7M | 92.7% | 204 | 27.1h |
 | claude-opus-4-6 | 3,574 | 3K | 1.0M | 511.1M | 100.0% | 140 | 21.2h |
 | gpt-5.6-luna | 2,951 | 31.4M | 146K | 30.0M | 48.9% | 2,732 | 14.1h |
@@ -46,15 +46,15 @@ _AI session 365-day totals cover 83 days of local assistant session history (not
 | claude-haiku-4-5 | 33 | 186 | 5K | 1.6M | 100.0% | 1 | 0.2h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0.0% | 1 | 0.0h |
 | pool-account-management | 1 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **77,078** | **91.9M** | **21.2M** | **8,902.8M** | **99%** | **4,619** | **432.0h** |
+| **Total** | **77,072** | **91.9M** | **21.2M** | **8,902.6M** | **99%** | **4,619** | **432.0h** |
 
-_9,222.8M total tokens processed. 99% cache hit rate._
+_9,222.7M total tokens processed. 99% cache hit rate._
 
 ## AI Model Usage (all time)
 
 | Model | Requests | Input | Output | Cache read | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 198,364 | 213K | 67.7M | 19,589.6M | 100.0% | 4,815 | 1,098.4h |
+| claude-sonnet-4-6 | 198,371 | 213K | 67.7M | 19,590.1M | 100.0% | 4,815 | 1,098.4h |
 | deepseek-v4-flash-free | 15,088 | 36.8M | 3.1M | 1,278.4M | 97.2% | 199 | 47.7h |
 | claude-opus-4-6 | 14,298 | 15K | 4.7M | 1,462.8M | 100.0% | 569 | 80.3h |
 | gpt-5.6-sol | 13,650 | 65.6M | 2.9M | 1,121.9M | 94.5% | 692 | 98.0h |
@@ -76,9 +76,9 @@ _9,222.8M total tokens processed. 99% cache hit rate._
 | claude-sonnet-4 | 1 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0.0% | 1 | 0.0h |
 | pool-account-management | 1 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **285,006** | **272.8M** | **87.8M** | **25,928.2M** | **99%** | **13,481** | **1,590.3h** |
+| **Total** | **285,013** | **272.8M** | **87.8M** | **25,928.7M** | **99%** | **13,481** | **1,590.3h** |
 
-_26,962.8M total tokens processed. 99% cache hit rate._
+_26,963.2M total tokens processed. 99% cache hit rate._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -93,7 +93,7 @@ _26,962.8M total tokens processed. 99% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-09-23 19:12 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-09-23 19:15 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
