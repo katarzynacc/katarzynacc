@@ -33,7 +33,7 @@ _AI session 365-day totals cover 85 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 56,150 | 59K | 14.8M | 7,072.9M | 100.0% | 1,255 | 298.4h |
+| claude-sonnet-4-6 | 56,162 | 59K | 14.8M | 7,075.0M | 100.0% | 1,255 | 298.5h |
 | gpt-5.6-terra | 3,488 | 26.2M | 732K | 336.5M | 92.8% | 184 | 25.0h |
 | claude-opus-4-6 | 3,163 | 3K | 945K | 485.5M | 100.0% | 136 | 19.0h |
 | gpt-5.6-luna | 2,764 | 31.1M | 122K | 25.8M | 45.3% | 2,619 | 10.9h |
@@ -45,15 +45,15 @@ _AI session 365-day totals cover 85 days of local assistant session history (not
 | x-preview-f-free | 3 | 0 | 0 | 0 | 0.0% | 2 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0.0% | 1 | 0.0h |
 | pool-account-management | 1 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **69,425** | **83.7M** | **17.7M** | **8,372.6M** | **99%** | **4,218** | **388.7h** |
+| **Total** | **69,437** | **83.7M** | **17.7M** | **8,374.7M** | **99%** | **4,218** | **388.8h** |
 
-_8,671.8M total tokens processed. 99% cache hit rate._
+_8,673.9M total tokens processed. 99% cache hit rate._
 
 ## AI Model Usage (all time)
 
 | Model | Requests | Input | Output | Cache read | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 202,580 | 217K | 68.5M | 20,070.7M | 100.0% | 4,881 | 1,117.9h |
+| claude-sonnet-4-6 | 202,592 | 217K | 68.5M | 20,072.8M | 100.0% | 4,881 | 1,118.0h |
 | deepseek-v4-flash-free | 15,088 | 36.8M | 3.1M | 1,278.4M | 97.2% | 199 | 47.7h |
 | claude-opus-4-6 | 14,614 | 15K | 4.8M | 1,505.4M | 100.0% | 573 | 82.4h |
 | gpt-5.6-sol | 13,650 | 65.6M | 2.9M | 1,121.9M | 94.5% | 692 | 98.0h |
@@ -75,9 +75,9 @@ _8,671.8M total tokens processed. 99% cache hit rate._
 | claude-sonnet-4 | 1 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0.0% | 1 | 0.0h |
 | pool-account-management | 1 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **289,601** | **274.4M** | **88.6M** | **26,451.9M** | **99%** | **13,613** | **1,612.0h** |
+| **Total** | **289,613** | **274.4M** | **88.6M** | **26,454.0M** | **99%** | **13,613** | **1,612.1h** |
 
-_27,505.7M total tokens processed. 99% cache hit rate._
+_27,507.9M total tokens processed. 99% cache hit rate._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -92,7 +92,7 @@ _27,505.7M total tokens processed. 99% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-09-25 06:09 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-09-25 06:12 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
