@@ -19,7 +19,7 @@
 | Worker/headless AI generation | 0.2h | 68.2h | 282.8h | 1339.9h |
 | Additive observed work | 2.0h | 113.0h | 445.7h | 1,824.2h |
 | Interactive sessions | 3 | 10 | 34 | 137 |
-| Worker sessions | 56 | 639 | 3,820 | 14,470 |
+| Worker sessions | 65 | 648 | 3,829 | 14,479 |
 
 _Screen time from linux-wtmp:login-session-proxy; collection status: ok. *365-day estimate uses observed calendar coverage._
 
@@ -33,30 +33,30 @@ _AI session 365-day totals cover 87 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 54,245 | 57K | 13.6M | 7,002.9M | 100.0% | 1,152 | 292.5h |
-| gpt-5.6-terra | 3,977 | 29.3M | 823K | 398.3M | 93.1% | 202 | 27.8h |
-| claude-opus-4-6 | 2,799 | 3K | 815K | 444.7M | 100.0% | 130 | 17.2h |
-| gpt-5.6-luna | 2,553 | 31.0M | 113K | 23.4M | 43.0% | 2,404 | 10.6h |
+| claude-sonnet-4-6 | 54,356 | 57K | 13.6M | 7,007.8M | 100.0% | 1,156 | 292.7h |
+| gpt-5.6-terra | 3,815 | 28.2M | 783K | 377.5M | 93.0% | 198 | 26.6h |
+| claude-opus-4-6 | 2,800 | 3K | 815K | 444.7M | 100.0% | 131 | 17.3h |
+| gpt-5.6-luna | 2,556 | 31.1M | 114K | 23.4M | 42.9% | 2,407 | 10.6h |
 | gpt-5.6-sol-fast | 2,266 | 12.7M | 483K | 248.8M | 95.1% | 13 | 25.3h |
 | gpt-5.6-sol | 465 | 2.0M | 113K | 53.4M | 96.3% | 13 | 2.6h |
 | ling-3.0-flash-fin-free | 328 | 3.1M | 70K | 35.1M | 91.9% | 2 | 1.1h |
 | nemotron-3-ultra-free | 171 | 3.3M | 14K | 15.3M | 82.0% | 1 | 1.2h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **66,805** | **81.7M** | **16.0M** | **8,222.3M** | **99%** | **3,908** | **378.2h** |
+| **Total** | **66,758** | **80.7M** | **16.0M** | **8,206.4M** | **99%** | **3,912** | **377.2h** |
 
-_8,504.1M total tokens processed. 99% cache hit rate._
+_8,487.4M total tokens processed. 99% cache hit rate._
 
 ## AI Model Usage (all time)
 
 | Model | Requests | Input | Output | Cache read | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 204,347 | 219K | 68.7M | 20,284.2M | 100.0% | 4,922 | 1,128.6h |
+| claude-sonnet-4-6 | 204,458 | 219K | 68.8M | 20,289.1M | 100.0% | 4,926 | 1,128.9h |
 | deepseek-v4-flash-free | 15,088 | 36.8M | 3.1M | 1,278.4M | 97.2% | 199 | 47.7h |
-| claude-opus-4-6 | 14,614 | 15K | 4.8M | 1,505.4M | 100.0% | 573 | 82.4h |
+| claude-opus-4-6 | 14,615 | 15K | 4.8M | 1,505.4M | 100.0% | 574 | 82.4h |
 | gpt-5.6-sol | 13,650 | 65.6M | 2.9M | 1,121.9M | 94.5% | 692 | 98.0h |
 | gpt-5.6-terra | 8,515 | 52.2M | 1.8M | 625.7M | 92.3% | 1,307 | 57.1h |
 | claude-sonnet-4-5 | 8,013 | 20K | 1.9M | 318.8M | 100.0% | 300 | 21.9h |
-| gpt-5.6-luna | 5,741 | 61.0M | 334K | 67.7M | 52.6% | 5,085 | 22.5h |
+| gpt-5.6-luna | 5,744 | 61.1M | 334K | 67.7M | 52.6% | 5,088 | 22.5h |
 | claude-haiku-4-5 | 4,892 | 20K | 960K | 275.1M | 100.0% | 137 | 18.7h |
 | gpt-5.5 | 4,642 | 13.3M | 741K | 190.8M | 93.5% | 275 | 52.1h |
 | gpt-5.4 | 4,186 | 15.8M | 1.0M | 239.4M | 93.8% | 201 | 31.3h |
@@ -72,9 +72,9 @@ _8,504.1M total tokens processed. 99% cache hit rate._
 | claude-sonnet-4 | 1 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0.0% | 1 | 0.0h |
 | pool-account-management | 1 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **292,009** | **279.4M** | **89.1M** | **26,735.5M** | **99%** | **13,732** | **1,626.4h** |
+| **Total** | **292,124** | **279.5M** | **89.1M** | **26,740.3M** | **99%** | **13,740** | **1,626.6h** |
 
-_27,799.2M total tokens processed. 99% cache hit rate._
+_27,804.4M total tokens processed. 99% cache hit rate._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -89,7 +89,7 @@ _27,799.2M total tokens processed. 99% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-09-27 03:17 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-09-27 04:16 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
