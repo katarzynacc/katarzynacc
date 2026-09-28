@@ -34,18 +34,18 @@ _AI session 365-day totals cover 89 days of local assistant session history (not
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | claude-sonnet-4-6 | 56,411 | 60K | 14.0M | 7,153.6M | 175.4M | 97.6% | 1,214 | 301.9h |
-| gpt-5.6-terra | 3,457 | 25.7M | 677K | 347.7M | 0 | 93.1% | 174 | 23.6h |
+| gpt-5.6-terra | 3,297 | 25.1M | 645K | 337.3M | 0 | 93.1% | 171 | 22.2h |
 | claude-opus-4-6 | 2,978 | 3K | 851K | 461.1M | 15.4M | 96.8% | 131 | 18.2h |
-| gpt-5.6-luna | 2,407 | 31.6M | 105K | 20.7M | 0 | 39.6% | 2,297 | 9.3h |
-| gpt-5.6-sol-fast | 1,787 | 10.4M | 375K | 190.4M | 0 | 94.8% | 11 | 22.2h |
+| gpt-5.6-luna | 2,403 | 31.6M | 105K | 20.7M | 0 | 39.6% | 2,293 | 9.2h |
+| gpt-5.6-sol-fast | 1,762 | 10.2M | 367K | 188.5M | 0 | 94.8% | 10 | 21.8h |
 | ling-3.0-flash-fin-free | 328 | 3.1M | 70K | 35.1M | 0 | 91.9% | 2 | 1.1h |
 | nemotron-3-ultra-free | 171 | 3.3M | 14K | 15.3M | 0 | 82.0% | 1 | 1.2h |
 | gpt-5.6-sol | 149 | 622K | 32K | 17.5M | 0 | 96.6% | 4 | 0.9h |
-| claude-sonnet-5-5 | 92 | 200 | 28K | 4.6M | 467K | 90.8% | 6 | 0.6h |
+| claude-sonnet-5-5 | 94 | 206 | 29K | 4.7M | 535K | 89.8% | 6 | 0.6h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **67,781** | **75.0M** | **16.1M** | **8,246.4M** | **191.3M** | **96.9%** | **3,830** | **378.9h** |
+| **Total** | **67,594** | **74.1M** | **16.1M** | **8,234.2M** | **191.3M** | **96.9%** | **3,822** | **377.0h** |
 
-_8,528.9M total tokens processed. 96.9% cache hit rate._
+_8,515.9M total tokens processed. 96.9% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -68,14 +68,14 @@ _8,528.9M total tokens processed. 96.9% cache hit rate._
 | gpt-5.5-fast | 366 | 1.7M | 88K | 39.5M | 0 | 95.9% | 2 | 3.1h |
 | claude-opus-4-8 | 357 | 708 | 367K | 69.8M | 5.5M | 92.6% | 1 | 3.6h |
 | ling-3.0-flash-fin-free | 328 | 3.1M | 70K | 35.1M | 0 | 91.9% | 2 | 1.1h |
-| claude-sonnet-5-5 | 92 | 200 | 28K | 4.6M | 467K | 90.8% | 6 | 0.6h |
+| claude-sonnet-5-5 | 94 | 206 | 29K | 4.7M | 535K | 89.8% | 6 | 0.6h |
 | north-mini-code-free | 28 | 915K | 284 | 0 | 0 | 0.0% | 2 | 0.0h |
 | claude-sonnet-4 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
 | pool-account-management | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **294,733** | **281.3M** | **89.6M** | **26,918.9M** | **702.5M** | **96.5%** | **13,900** | **1,639.1h** |
+| **Total** | **294,735** | **281.3M** | **89.6M** | **26,918.9M** | **702.6M** | **96.5%** | **13,900** | **1,639.1h** |
 
-_27,992.3M total tokens processed. 96.5% cache hit rate._
+_27,992.5M total tokens processed. 96.5% cache hit rate._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -90,7 +90,7 @@ _27,992.3M total tokens processed. 96.5% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-09-28 22:18 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-09-28 23:18 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
