@@ -13,13 +13,13 @@
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
 | Screen time (Linux) | 24h | 154.4h | 593.4h | ~7532h* |
-| Interactive human attention | 0.7h | 8.8h | 54.1h | 146.7h |
-| Interactive AI generation | 0.4h | 6.9h | 68.0h | 306.2h |
-| Worker-classified human attention | 0.2h | 1.9h | 14.4h | 45.7h |
-| Worker/headless AI generation | 4.1h | 41.4h | 236.4h | 1362.5h |
-| Additive observed work | 5.5h | 59.0h | 371.7h | 1,857.5h |
-| Interactive sessions | 3 | 10 | 32 | 144 |
-| Worker sessions | 171 | 682 | 3,387 | 14,983 |
+| Interactive human attention | 0.0h | 7.2h | 54.1h | 146.7h |
+| Interactive AI generation | 0.0h | 4.6h | 65.9h | 306.2h |
+| Worker-classified human attention | 0.0h | 0.8h | 14.4h | 45.7h |
+| Worker/headless AI generation | 0.8h | 23.6h | 233.1h | 1363.3h |
+| Additive observed work | 0.8h | 36.2h | 366.1h | 1,858.4h |
+| Interactive sessions | 1 | 10 | 32 | 144 |
+| Worker sessions | 57 | 569 | 3,192 | 14,983 |
 
 _Screen time from linux-wtmp:login-session-proxy; collection status: ok. *365-day estimate uses observed calendar coverage._
 
@@ -27,7 +27,7 @@ _Periods are completed local calendar days ending at midnight; today is excluded
 
 _Human attention is unioned wall-clock time, so overlapping sessions are not double-counted. AI generation is additive machine work across sessions; it is not wall-clock concurrency._
 
-_AI session 365-day totals cover 92 days of local assistant session history (not extrapolated)._
+_AI session 365-day totals cover 93 days of local assistant session history (not extrapolated)._
 
 ## AI Model Usage (last 30 days)
 
@@ -90,7 +90,7 @@ _28,163.8M total tokens processed. 96.4% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-02 21:44 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-02 22:44 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
