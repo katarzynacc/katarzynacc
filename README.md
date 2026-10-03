@@ -33,19 +33,19 @@ _AI session 365-day totals cover 93 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 46,057 | 49K | 10.2M | 6,107.9M | 151.6M | 97.6% | 950 | 246.4h |
+| claude-sonnet-4-6 | 45,991 | 49K | 10.2M | 6,104.7M | 151.5M | 97.6% | 947 | 246.2h |
 | gpt-5.6-terra | 3,272 | 19.5M | 658K | 341.6M | 0 | 94.6% | 175 | 21.8h |
-| claude-opus-4-6 | 2,634 | 2K | 698K | 416.4M | 12.0M | 97.2% | 84 | 15.3h |
-| gpt-5.6-luna | 2,099 | 32.7M | 87K | 15.9M | 0 | 32.7% | 2,029 | 7.9h |
-| gpt-5.6-sol-fast | 1,092 | 5.3M | 213K | 113.7M | 0 | 95.5% | 11 | 8.5h |
+| claude-opus-4-6 | 2,632 | 2K | 697K | 416.4M | 11.9M | 97.2% | 82 | 15.3h |
+| gpt-5.6-luna | 2,091 | 32.6M | 87K | 15.8M | 0 | 32.7% | 2,021 | 7.9h |
+| gpt-5.6-sol-fast | 1,044 | 4.8M | 201K | 108.4M | 0 | 95.7% | 11 | 7.7h |
 | claude-sonnet-5-5 | 893 | 1K | 263K | 54.1M | 4.6M | 92.1% | 77 | 5.7h |
 | ling-3.0-flash-fin-free | 328 | 3.1M | 70K | 35.1M | 0 | 91.9% | 2 | 1.1h |
 | gpt-5.6-sol | 259 | 1.0M | 45K | 28.3M | 0 | 96.4% | 6 | 1.7h |
 | nemotron-3-ultra-free | 171 | 3.3M | 14K | 15.3M | 0 | 82.0% | 1 | 1.2h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **56,806** | **65.3M** | **12.3M** | **7,128.7M** | **168.3M** | **96.8%** | **3,324** | **309.4h** |
+| **Total** | **56,682** | **64.7M** | **12.3M** | **7,120.1M** | **168.1M** | **96.8%** | **3,311** | **308.4h** |
 
-_7,374.7M total tokens processed. 96.8% cache hit rate._
+_7,365.4M total tokens processed. 96.8% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -90,7 +90,7 @@ _28,168.8M total tokens processed. 96.4% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-03 12:01 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-03 13:01 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
