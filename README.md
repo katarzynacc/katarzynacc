@@ -19,7 +19,7 @@
 | Worker/headless AI generation | 0.8h | 17.7h | 208.8h | 1370.0h |
 | Additive observed work | 6.6h | 38.4h | 346.2h | 1,878.7h |
 | Interactive sessions | 11 | 19 | 42 | 157 |
-| Worker sessions | 93 | 564 | 2,944 | 15,224 |
+| Worker sessions | 97 | 568 | 2,948 | 15,228 |
 
 _Screen time from linux-wtmp:login-session-proxy; collection status: stale. *365-day estimate uses observed calendar coverage._
 
@@ -35,8 +35,8 @@ _AI session 365-day totals cover 96 days of local assistant session history (not
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | claude-sonnet-4-6 | 42,828 | 45K | 9.2M | 5,697.6M | 141.3M | 97.6% | 867 | 231.3h |
 | gpt-5.6-terra | 4,070 | 25.3M | 833K | 418.5M | 0 | 94.3% | 209 | 26.1h |
-| claude-opus-4-6 | 2,151 | 2K | 529K | 333.9M | 9.0M | 97.4% | 43 | 12.6h |
-| gpt-5.6-luna | 1,877 | 31.8M | 89K | 15.0M | 0 | 32.1% | 1,808 | 6.1h |
+| claude-opus-4-6 | 2,153 | 2K | 530K | 333.9M | 9.1M | 97.3% | 45 | 12.6h |
+| gpt-5.6-luna | 1,879 | 31.8M | 89K | 15.0M | 0 | 32.1% | 1,810 | 6.1h |
 | claude-sonnet-5-5 | 1,132 | 2K | 342K | 66.8M | 6.0M | 91.8% | 100 | 6.5h |
 | gpt-5.6-sol-fast | 1,096 | 4.7M | 207K | 112.6M | 0 | 95.9% | 12 | 8.1h |
 | nemotron-3-ultra-free | 616 | 14.8M | 65K | 67.9M | 0 | 82.0% | 2 | 3.3h |
@@ -47,21 +47,21 @@ _AI session 365-day totals cover 96 days of local assistant session history (not
 | gpt-5.4 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **54,847** | **83.2M** | **11.5M** | **6,815.7M** | **156.4M** | **96.6%** | **3,041** | **299.3h** |
+| **Total** | **54,851** | **83.3M** | **11.5M** | **6,815.7M** | **156.4M** | **96.6%** | **3,045** | **299.3h** |
 
-_7,066.9M total tokens processed. 96.6% cache hit rate._
+_7,067.0M total tokens processed. 96.6% cache hit rate._
 
 ## AI Model Usage (all time)
 
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | claude-sonnet-4-6 | 206,759 | 222K | 69.2M | 20,452.5M | 605.4M | 97.1% | 5,011 | 1,140.4h |
-| claude-opus-4-6 | 15,184 | 16K | 4.9M | 1,560.2M | 51.8M | 96.8% | 592 | 85.5h |
+| claude-opus-4-6 | 15,186 | 16K | 4.9M | 1,560.2M | 51.9M | 96.8% | 594 | 85.5h |
 | deepseek-v4-flash-free | 15,088 | 36.8M | 3.1M | 1,278.4M | 0 | 97.2% | 199 | 47.7h |
 | gpt-5.6-sol | 13,832 | 66.4M | 2.9M | 1,137.0M | 0 | 94.5% | 699 | 99.1h |
 | claude-sonnet-4-5 | 10,580 | 52K | 2.9M | 499.3M | 33.2M | 93.8% | 339 | 35.9h |
 | gpt-5.6-terra | 9,943 | 61.7M | 2.1M | 752.9M | 0 | 92.4% | 1,388 | 65.4h |
-| gpt-5.6-luna | 6,143 | 68.0M | 359K | 68.6M | 0 | 50.2% | 5,484 | 24.1h |
+| gpt-5.6-luna | 6,145 | 68.0M | 359K | 68.6M | 0 | 50.2% | 5,486 | 24.1h |
 | claude-haiku-4-5 | 4,893 | 20K | 960K | 275.1M | 8.8M | 96.9% | 138 | 18.8h |
 | gpt-5.5 | 4,642 | 13.3M | 741K | 190.8M | 0 | 93.5% | 275 | 52.1h |
 | gpt-5.4 | 4,187 | 15.8M | 1.0M | 239.4M | 0 | 93.8% | 202 | 31.3h |
@@ -78,9 +78,9 @@ _7,066.9M total tokens processed. 96.6% cache hit rate._
 | claude-sonnet-4 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
 | pool-account-management | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **299,220** | **311.1M** | **90.5M** | **27,274.3M** | **711.0M** | **96.4%** | **14,427** | **1,664.4h** |
+| **Total** | **299,224** | **311.1M** | **90.5M** | **27,274.3M** | **711.0M** | **96.4%** | **14,431** | **1,664.4h** |
 
-_28,387.0M total tokens processed. 96.4% cache hit rate._
+_28,387.1M total tokens processed. 96.4% cache hit rate._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -95,7 +95,7 @@ _28,387.0M total tokens processed. 96.4% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-06 06:55 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-06 07:55 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
