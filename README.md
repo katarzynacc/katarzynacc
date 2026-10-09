@@ -33,11 +33,11 @@ _AI session 365-day totals cover 99 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 33,508 | 35K | 6.5M | 4,508.0M | 113.0M | 97.6% | 709 | 174.8h |
+| claude-sonnet-4-6 | 33,503 | 35K | 6.5M | 4,507.1M | 113.0M | 97.6% | 709 | 174.8h |
 | gpt-5.6-terra | 3,876 | 23.7M | 797K | 394.6M | 0 | 94.3% | 199 | 24.7h |
 | claude-opus-4-6 | 2,906 | 3K | 698K | 413.5M | 12.0M | 97.2% | 74 | 17.2h |
 | claude-sonnet-5-5 | 1,989 | 4K | 549K | 114.1M | 14.3M | 88.8% | 185 | 9.6h |
-| gpt-5.6-luna | 1,959 | 31.9M | 105K | 23.1M | 0 | 42.0% | 1,771 | 6.1h |
+| gpt-5.6-luna | 1,952 | 31.9M | 104K | 23.0M | 0 | 41.9% | 1,764 | 6.0h |
 | gpt-5.6-sol-fast | 1,096 | 4.7M | 207K | 112.6M | 0 | 95.9% | 12 | 8.1h |
 | nemotron-3-ultra-free | 634 | 16.0M | 68K | 69.7M | 0 | 81.3% | 2 | 3.6h |
 | big-pickle | 474 | 2.1M | 90K | 39.0M | 0 | 94.8% | 4 | 2.4h |
@@ -47,9 +47,9 @@ _AI session 365-day totals cover 99 days of local assistant session history (not
 | gpt-5.4 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **47,045** | **83.0M** | **9.1M** | **5,739.0M** | **139.4M** | **96.3%** | **2,950** | **249.3h** |
+| **Total** | **47,033** | **83.0M** | **9.1M** | **5,738.0M** | **139.4M** | **96.3%** | **2,943** | **249.2h** |
 
-_5,970.7M total tokens processed. 96.3% cache hit rate._
+_5,969.6M total tokens processed. 96.3% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -95,7 +95,7 @@ _28,541.8M total tokens processed. 96.4% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-09 09:52 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-09 09:56 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
