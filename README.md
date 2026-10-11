@@ -19,7 +19,7 @@
 | Worker/headless AI generation | 0.3h | 13.2h | 156.1h | 1378.6h |
 | Additive observed work | 1.6h | 38.6h | 280.5h | 1,899.9h |
 | Interactive sessions | 0 | 19 | 48 | 164 |
-| Worker sessions | 167 | 707 | 2,676 | 15,755 |
+| Worker sessions | 168 | 708 | 2,677 | 15,756 |
 
 _Screen time from linux-wtmp:login-session-proxy; collection status: stale. *365-day estimate uses observed calendar coverage._
 
@@ -33,10 +33,10 @@ _AI session 365-day totals cover 101 days of local assistant session history (no
 
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 26,817 | 28K | 5.2M | 3,476.3M | 93.6M | 97.4% | 590 | 140.9h |
+| claude-sonnet-4-6 | 26,718 | 28K | 5.2M | 3,466.4M | 93.4M | 97.4% | 588 | 140.3h |
 | gpt-5.6-terra | 3,874 | 23.7M | 797K | 394.6M | 0 | 94.3% | 197 | 24.7h |
 | claude-opus-4-6 | 2,893 | 3K | 696K | 411.6M | 11.8M | 97.2% | 73 | 17.0h |
-| claude-sonnet-5-5 | 2,143 | 4K | 574K | 119.9M | 16.3M | 88.0% | 218 | 10.0h |
+| claude-sonnet-5-5 | 2,146 | 4K | 575K | 120.0M | 16.4M | 87.9% | 219 | 10.0h |
 | gpt-5.6-luna | 1,918 | 30.4M | 102K | 22.7M | 0 | 42.8% | 1,730 | 5.9h |
 | gpt-5.6-sol-fast | 1,096 | 4.7M | 207K | 112.6M | 0 | 95.9% | 12 | 8.1h |
 | nemotron-3-ultra-free | 664 | 16.8M | 72K | 70.5M | 0 | 80.7% | 3 | 3.8h |
@@ -47,9 +47,9 @@ _AI session 365-day totals cover 101 days of local assistant session history (no
 | gpt-5.4 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **40,482** | **82.2M** | **7.8M** | **4,711.6M** | **121.8M** | **95.8%** | **2,824** | **215.7h** |
+| **Total** | **40,386** | **82.2M** | **7.8M** | **4,701.8M** | **121.7M** | **95.8%** | **2,823** | **215.1h** |
 
-_4,923.6M total tokens processed. 95.8% cache hit rate._
+_4,913.7M total tokens processed. 95.8% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -66,7 +66,7 @@ _4,923.6M total tokens processed. 95.8% cache hit rate._
 | gpt-5.5 | 4,642 | 13.3M | 741K | 190.8M | 0 | 93.5% | 275 | 52.1h |
 | gpt-5.4 | 4,187 | 15.8M | 1.0M | 239.4M | 0 | 93.8% | 202 | 31.3h |
 | gpt-5.6-sol-fast | 2,482 | 13.7M | 527K | 266.4M | 0 | 95.1% | 18 | 26.5h |
-| claude-sonnet-5-5 | 2,143 | 4K | 574K | 119.9M | 16.3M | 88.0% | 218 | 10.0h |
+| claude-sonnet-5-5 | 2,146 | 4K | 575K | 120.0M | 16.4M | 87.9% | 219 | 10.0h |
 | x-preview-f-free | 1,238 | 5.5M | 296K | 172.5M | 0 | 96.9% | 7 | 12.3h |
 | nemotron-3-ultra-free | 862 | 21.5M | 85K | 95.6M | 0 | 81.6% | 4 | 5.0h |
 | gpt-5.4-mini | 747 | 1.8M | 108K | 37.2M | 0 | 95.2% | 28 | 3.9h |
@@ -78,9 +78,9 @@ _4,923.6M total tokens processed. 95.8% cache hit rate._
 | claude-sonnet-4 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
 | pool-account-management | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **301,481** | **318.6M** | **91.0M** | **27,420.5M** | **724.3M** | **96.3%** | **14,895** | **1,673.7h** |
+| **Total** | **301,484** | **318.6M** | **91.0M** | **27,420.5M** | **724.4M** | **96.3%** | **14,896** | **1,673.7h** |
 
-_28,554.4M total tokens processed. 96.3% cache hit rate._
+_28,554.6M total tokens processed. 96.3% cache hit rate._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -95,7 +95,7 @@ _28,554.4M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-11 06:25 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-11 06:56 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
