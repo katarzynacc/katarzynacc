@@ -33,11 +33,11 @@ _AI session 365-day totals cover 102 days of local assistant session history (no
 
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 25,710 | 27K | 5.0M | 3,276.6M | 89.4M | 97.3% | 541 | 134.2h |
+| claude-sonnet-4-6 | 25,669 | 27K | 5.0M | 3,273.2M | 89.1M | 97.3% | 541 | 134.0h |
 | gpt-5.6-terra | 3,874 | 23.7M | 797K | 394.6M | 0 | 94.3% | 197 | 24.7h |
 | claude-opus-4-6 | 2,768 | 2K | 672K | 375.8M | 10.6M | 97.2% | 69 | 16.3h |
 | claude-sonnet-5-5 | 2,298 | 5K | 616K | 126.4M | 18.3M | 87.3% | 234 | 10.5h |
-| gpt-5.6-luna | 1,778 | 28.3M | 97K | 21.5M | 0 | 43.2% | 1,590 | 5.3h |
+| gpt-5.6-luna | 1,768 | 28.1M | 97K | 21.4M | 0 | 43.2% | 1,580 | 5.3h |
 | gpt-5.6-sol-fast | 1,096 | 4.7M | 207K | 112.6M | 0 | 95.9% | 12 | 8.1h |
 | nemotron-3-ultra-free | 731 | 18.2M | 77K | 74.4M | 0 | 80.3% | 4 | 4.1h |
 | big-pickle | 474 | 2.1M | 90K | 39.0M | 0 | 94.8% | 4 | 2.4h |
@@ -47,9 +47,9 @@ _AI session 365-day totals cover 102 days of local assistant session history (no
 | gpt-5.4 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **39,332** | **81.6M** | **7.6M** | **4,485.2M** | **118.4M** | **95.7%** | **2,648** | **208.5h** |
+| **Total** | **39,281** | **81.4M** | **7.6M** | **4,481.8M** | **118.1M** | **95.7%** | **2,638** | **208.3h** |
 
-_4,693.0M total tokens processed. 95.7% cache hit rate._
+_4,689.0M total tokens processed. 95.7% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -95,7 +95,7 @@ _28,572.5M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-12 15:24 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-12 15:56 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
