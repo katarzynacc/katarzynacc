@@ -34,11 +34,11 @@ _AI session 365-day totals cover 103 days of local assistant session history (no
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | claude-sonnet-4-6 | 24,459 | 26K | 4.7M | 3,074.4M | 82.8M | 97.4% | 501 | 127.3h |
-| gpt-5.6-terra | 3,873 | 23.7M | 797K | 394.6M | 0 | 94.3% | 196 | 24.7h |
+| gpt-5.6-terra | 3,821 | 23.5M | 784K | 389.3M | 0 | 94.3% | 195 | 24.4h |
 | claude-opus-4-6 | 2,827 | 3K | 688K | 380.7M | 10.8M | 97.2% | 73 | 16.8h |
 | claude-sonnet-5-5 | 2,386 | 5K | 634K | 130.9M | 18.7M | 87.5% | 241 | 10.8h |
 | gpt-5.6-luna | 1,686 | 26.7M | 92K | 20.1M | 0 | 43.0% | 1,509 | 5.1h |
-| gpt-5.6-sol-fast | 998 | 4.2M | 185K | 104.2M | 0 | 96.1% | 12 | 7.7h |
+| gpt-5.6-sol-fast | 926 | 4.1M | 172K | 92.7M | 0 | 95.7% | 11 | 7.2h |
 | nemotron-3-ultra-free | 731 | 18.2M | 77K | 74.4M | 0 | 80.3% | 4 | 4.1h |
 | big-pickle | 474 | 2.1M | 90K | 39.0M | 0 | 94.8% | 4 | 2.4h |
 | ling-3.0-flash-fin-free | 328 | 3.1M | 70K | 35.1M | 0 | 91.9% | 2 | 1.1h |
@@ -47,9 +47,9 @@ _AI session 365-day totals cover 103 days of local assistant session history (no
 | gpt-5.4 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **38,037** | **79.5M** | **7.4M** | **4,282.8M** | **112.4M** | **95.7%** | **2,537** | **201.8h** |
+| **Total** | **37,913** | **79.1M** | **7.3M** | **4,265.9M** | **112.4M** | **95.7%** | **2,535** | **200.9h** |
 
-_4,482.2M total tokens processed. 95.7% cache hit rate._
+_4,464.9M total tokens processed. 95.7% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -95,7 +95,7 @@ _28,583.2M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-13 13:06 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-13 13:56 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
