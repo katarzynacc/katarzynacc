@@ -12,14 +12,14 @@
 
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Screen time (Linux) | 23.9h | 48.5h | 333h | ~7106h* |
-| Interactive human attention | 0.0h | 2.5h | 34.4h | 156.4h |
-| Interactive AI generation | 0.0h | 1.1h | 37.1h | 313.4h |
-| Worker-classified human attention | 0.0h | 7.7h | 27.6h | 64.6h |
-| Worker/headless AI generation | 0.7h | 5.7h | 115.7h | 1383.3h |
-| Additive observed work | 0.7h | 16.1h | 212.5h | 1,912.2h |
-| Interactive sessions | 2 | 12 | 52 | 174 |
-| Worker sessions | 93 | 536 | 2,448 | 16,024 |
+| Screen time (Linux) | 24h | 72.5h | 333h | ~7106h* |
+| Interactive human attention | 0.0h | 1.9h | 33.0h | 156.4h |
+| Interactive AI generation | 0.2h | 1.0h | 34.9h | 313.5h |
+| Worker-classified human attention | 0.0h | 7.1h | 27.5h | 64.6h |
+| Worker/headless AI generation | 0.9h | 5.9h | 114.2h | 1384.1h |
+| Additive observed work | 1.0h | 15.0h | 207.4h | 1,913.3h |
+| Interactive sessions | 2 | 10 | 49 | 174 |
+| Worker sessions | 43 | 437 | 2,318 | 16,024 |
 
 _Screen time from linux-wtmp:login-session-proxy; collection status: ok. *365-day estimate uses observed calendar coverage._
 
@@ -27,7 +27,7 @@ _Periods are completed local calendar days ending at midnight; today is excluded
 
 _Human attention is unioned wall-clock time, so overlapping sessions are not double-counted. AI generation is additive machine work across sessions; it is not wall-clock concurrency._
 
-_AI session 365-day totals cover 106 days of local assistant session history (not extrapolated)._
+_AI session 365-day totals cover 107 days of local assistant session history (not extrapolated)._
 
 ## AI Model Usage (last 30 days)
 
@@ -95,7 +95,7 @@ _28,649.4M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-16 21:59 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-16 22:01 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
