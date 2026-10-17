@@ -19,7 +19,7 @@
 | Worker/headless AI generation | 0.9h | 5.9h | 114.2h | 1384.1h |
 | Additive observed work | 1.0h | 15.0h | 207.4h | 1,913.3h |
 | Interactive sessions | 3 | 11 | 50 | 175 |
-| Worker sessions | 69 | 463 | 2,343 | 16,049 |
+| Worker sessions | 70 | 464 | 2,344 | 16,050 |
 
 _Screen time from linux-wtmp:login-session-proxy; collection status: ok. *365-day estimate uses observed calendar coverage._
 
@@ -38,7 +38,7 @@ _AI session 365-day totals cover 107 days of local assistant session history (no
 | gpt-5.6-terra | 3,212 | 20.7M | 660K | 319.1M | 0 | 93.9% | 169 | 19.5h |
 | claude-sonnet-5-5 | 2,769 | 6K | 744K | 146.7M | 25.5M | 85.2% | 275 | 12.0h |
 | gpt-5.6-luna | 1,577 | 25.5M | 82K | 15.6M | 0 | 38.1% | 1,441 | 4.5h |
-| gpt-5.6-sol-fast | 911 | 2.9M | 163K | 95.2M | 0 | 97.0% | 11 | 6.7h |
+| gpt-5.6-sol-fast | 860 | 2.9M | 154K | 88.3M | 0 | 96.8% | 11 | 6.5h |
 | nemotron-3-ultra-free | 778 | 18.9M | 82K | 77.5M | 0 | 80.4% | 6 | 4.3h |
 | big-pickle | 474 | 2.1M | 90K | 39.0M | 0 | 94.8% | 4 | 2.4h |
 | ling-3.0-flash-fin-free | 328 | 3.1M | 70K | 35.1M | 0 | 91.9% | 2 | 1.1h |
@@ -47,9 +47,9 @@ _AI session 365-day totals cover 107 days of local assistant session history (no
 | gpt-5.4 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **30,699** | **74.6M** | **6.0M** | **3,293.3M** | **93.5M** | **95.1%** | **2,355** | **156.3h** |
+| **Total** | **30,648** | **74.6M** | **6.0M** | **3,286.4M** | **93.5M** | **95.1%** | **2,355** | **156.1h** |
 
-_3,467.5M total tokens processed. 95.1% cache hit rate._
+_3,460.6M total tokens processed. 95.1% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -95,7 +95,7 @@ _28,721.4M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-17 15:01 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-17 15:29 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
