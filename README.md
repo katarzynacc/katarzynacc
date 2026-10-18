@@ -37,7 +37,7 @@ _AI session 365-day totals cover 108 days of local assistant session history (no
 | claude-opus-4-6 | 3,467 | 3K | 824K | 424.5M | 12.4M | 97.1% | 114 | 20.1h |
 | gpt-5.6-terra | 2,874 | 18.7M | 597K | 284.3M | 0 | 93.8% | 150 | 17.2h |
 | claude-sonnet-5-5 | 2,796 | 6K | 750K | 147.7M | 25.9M | 85.1% | 287 | 12.1h |
-| gpt-5.6-luna | 1,529 | 24.9M | 81K | 15.4M | 0 | 38.2% | 1,389 | 4.0h |
+| gpt-5.6-luna | 1,519 | 24.8M | 81K | 15.3M | 0 | 38.2% | 1,379 | 4.0h |
 | nemotron-3-ultra-free | 779 | 18.9M | 82K | 77.5M | 0 | 80.4% | 6 | 4.3h |
 | gpt-5.6-sol-fast | 714 | 2.5M | 135K | 73.6M | 0 | 96.6% | 9 | 5.7h |
 | big-pickle | 474 | 2.1M | 90K | 39.0M | 0 | 94.8% | 4 | 2.4h |
@@ -52,9 +52,9 @@ _AI session 365-day totals cover 108 days of local assistant session history (no
 | gpt-5.5 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **30,247** | **71.8M** | **5.9M** | **3,247.5M** | **93.9M** | **95.1%** | **2,302** | **153.3h** |
+| **Total** | **30,237** | **71.7M** | **5.9M** | **3,247.4M** | **93.9M** | **95.1%** | **2,292** | **153.3h** |
 
-_3,419.4M total tokens processed. 95.1% cache hit rate._
+_3,419.1M total tokens processed. 95.1% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -103,7 +103,7 @@ _28,732.9M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-18 08:01 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-18 09:01 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
