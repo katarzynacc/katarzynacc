@@ -12,7 +12,7 @@
 
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Screen time (Linux) | 24h | 167.9h | 397.9h | ~7155h* |
+| Screen time (Linux) | 24h | 167.9h | 397.9h | ~7165h* |
 | Interactive human attention | 0.0h | 2.5h | 22.6h | 158.9h |
 | Interactive AI generation | 0.0h | 2.6h | 18.0h | 315.9h |
 | Worker-classified human attention | 0.0h | 0.4h | 22.7h | 65.0h |
@@ -33,7 +33,7 @@ _AI session 365-day totals cover 112 days of local assistant session history (no
 
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 13,979 | 15K | 2.6M | 1,665.6M | 46.1M | 97.3% | 303 | 69.2h |
+| claude-sonnet-4-6 | 13,821 | 14K | 2.6M | 1,631.3M | 45.8M | 97.3% | 301 | 68.2h |
 | claude-opus-4-6 | 3,537 | 3K | 825K | 424.8M | 13.3M | 96.9% | 184 | 20.3h |
 | claude-sonnet-5-5 | 2,815 | 6K | 750K | 147.7M | 26.4M | 84.8% | 306 | 12.2h |
 | gpt-5.6-terra | 2,184 | 14.0M | 466K | 213.2M | 0 | 93.8% | 115 | 12.8h |
@@ -51,9 +51,9 @@ _AI session 365-day totals cover 112 days of local assistant session history (no
 | gpt-5.5 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **25,572** | **55.1M** | **5.0M** | **2,643.8M** | **86.0M** | **94.9%** | **2,007** | **127.6h** |
+| **Total** | **25,414** | **55.1M** | **5.0M** | **2,609.6M** | **85.6M** | **94.9%** | **2,005** | **126.5h** |
 
-_2,790.1M total tokens processed. 94.9% cache hit rate._
+_2,755.5M total tokens processed. 94.9% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -102,7 +102,7 @@ _28,735.4M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-21 22:02 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-21 23:02 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
