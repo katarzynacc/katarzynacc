@@ -33,11 +33,11 @@ _AI session 365-day totals cover 112 days of local assistant session history (no
 
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 12,524 | 13K | 2.4M | 1,383.6M | 42.4M | 97.0% | 278 | 62.2h |
-| claude-opus-4-6 | 3,537 | 3K | 825K | 424.8M | 13.3M | 96.9% | 184 | 20.3h |
+| claude-sonnet-4-6 | 12,377 | 13K | 2.3M | 1,373.7M | 42.2M | 97.0% | 275 | 61.5h |
+| claude-opus-4-6 | 3,432 | 3K | 790K | 410.4M | 13.2M | 96.9% | 184 | 19.7h |
 | claude-sonnet-5-5 | 2,815 | 6K | 750K | 147.7M | 26.4M | 84.8% | 306 | 12.2h |
 | gpt-5.6-terra | 2,184 | 14.0M | 466K | 213.2M | 0 | 93.8% | 115 | 12.8h |
-| gpt-5.6-luna | 1,214 | 19.9M | 70K | 12.5M | 0 | 38.5% | 1,074 | 3.1h |
+| gpt-5.6-luna | 1,211 | 19.9M | 70K | 12.4M | 0 | 38.5% | 1,071 | 3.1h |
 | nemotron-3-ultra-free | 608 | 15.5M | 67K | 62.1M | 0 | 80.0% | 5 | 3.2h |
 | big-pickle | 474 | 2.1M | 90K | 39.0M | 0 | 94.8% | 4 | 2.4h |
 | gpt-5.6-sol-fast | 360 | 1.3M | 73K | 39.4M | 0 | 96.7% | 6 | 1.7h |
@@ -51,9 +51,9 @@ _AI session 365-day totals cover 112 days of local assistant session history (no
 | gpt-5.5 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-6-astra | 1 | 7K | 505 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **24,104** | **54.8M** | **4.8M** | **2,361.8M** | **82.2M** | **94.5%** | **1,969** | **120.5h** |
+| **Total** | **23,849** | **54.8M** | **4.7M** | **2,337.5M** | **81.8M** | **94.5%** | **1,963** | **119.1h** |
 
-_2,503.8M total tokens processed. 94.5% cache hit rate._
+_2,479.0M total tokens processed. 94.5% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -102,7 +102,7 @@ _28,735.4M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-22 05:02 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-22 06:02 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
