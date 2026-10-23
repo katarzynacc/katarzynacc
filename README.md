@@ -36,12 +36,12 @@ _AI session 365-day totals cover 113 days of local assistant session history (no
 | claude-sonnet-4-6 | 10,647 | 11K | 2.0M | 1,151.5M | 35.2M | 97.0% | 233 | 54.1h |
 | claude-sonnet-5-5 | 2,815 | 6K | 750K | 147.7M | 26.4M | 84.8% | 306 | 12.2h |
 | claude-opus-4-6 | 2,472 | 2K | 550K | 229.5M | 7.7M | 96.7% | 171 | 14.3h |
-| gpt-5.6-terra | 2,117 | 13.6M | 449K | 206.1M | 0 | 93.8% | 113 | 12.4h |
-| gpt-5.6-luna | 1,178 | 19.0M | 69K | 12.4M | 0 | 39.4% | 1,038 | 3.1h |
+| gpt-5.6-terra | 2,089 | 13.4M | 445K | 201.3M | 0 | 93.8% | 111 | 12.3h |
+| gpt-5.6-luna | 1,175 | 19.0M | 68K | 12.4M | 0 | 39.5% | 1,035 | 3.1h |
 | nemotron-3-ultra-free | 608 | 15.5M | 67K | 62.1M | 0 | 80.0% | 5 | 3.2h |
 | big-pickle | 474 | 2.1M | 90K | 39.0M | 0 | 94.8% | 4 | 2.4h |
 | gpt-5.6-sol-fast | 360 | 1.3M | 73K | 39.4M | 0 | 96.7% | 6 | 1.7h |
-| gpt-5.6-sol | 214 | 1.0M | 35K | 17.7M | 0 | 94.3% | 15 | 1.4h |
+| gpt-5.6-sol | 189 | 944K | 30K | 15.0M | 0 | 94.1% | 14 | 1.1h |
 | gpt-6-luna-fast | 105 | 510K | 14K | 10.2M | 0 | 95.2% | 2 | 0.8h |
 | claude-haiku-4-5 | 1 | 3 | 425 | 0 | 26K | 0.0% | 1 | 0.0h |
 | gemini-3.6-flash | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
@@ -50,9 +50,9 @@ _AI session 365-day totals cover 113 days of local assistant session history (no
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **20,997** | **53.3M** | **4.1M** | **1,916.0M** | **69.4M** | **94%** | **1,876** | **105.6h** |
+| **Total** | **20,941** | **52.9M** | **4.1M** | **1,908.6M** | **69.4M** | **94%** | **1,870** | **105.2h** |
 
-_2,043.0M total tokens processed. 94% cache hit rate._
+_2,035.2M total tokens processed. 94% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -101,7 +101,7 @@ _28,735.5M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-23 03:02 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-23 04:02 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
