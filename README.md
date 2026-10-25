@@ -33,11 +33,11 @@ _AI session 365-day totals cover 115 days of local assistant session history (no
 
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 3,392 | 3K | 613K | 281.2M | 10.9M | 96.2% | 127 | 16.1h |
+| claude-sonnet-4-6 | 3,283 | 3K | 595K | 265.5M | 10.9M | 96.0% | 127 | 15.2h |
 | claude-sonnet-5-5 | 2,815 | 6K | 750K | 147.7M | 26.4M | 84.8% | 306 | 12.2h |
 | claude-opus-4-6 | 2,156 | 2K | 477K | 187.0M | 6.8M | 96.5% | 167 | 12.2h |
-| gpt-5.6-terra | 1,830 | 12.1M | 396K | 172.3M | 0 | 93.4% | 102 | 10.8h |
-| gpt-5.6-luna | 1,085 | 16.9M | 65K | 12.2M | 0 | 41.9% | 945 | 2.8h |
+| gpt-5.6-terra | 1,766 | 11.6M | 380K | 166.3M | 0 | 93.4% | 99 | 10.5h |
+| gpt-5.6-luna | 1,082 | 16.9M | 65K | 12.2M | 0 | 42.0% | 942 | 2.8h |
 | nemotron-3-ultra-free | 608 | 15.5M | 67K | 62.1M | 0 | 80.0% | 5 | 3.2h |
 | big-pickle | 474 | 2.1M | 90K | 39.0M | 0 | 94.8% | 4 | 2.4h |
 | gpt-5.6-sol-fast | 332 | 1.1M | 67K | 36.6M | 0 | 96.9% | 5 | 1.6h |
@@ -50,9 +50,9 @@ _AI session 365-day totals cover 115 days of local assistant session history (no
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **12,997** | **49.5M** | **2.5M** | **963.7M** | **44.2M** | **91.1%** | **1,666** | **63.3h** |
+| **Total** | **12,821** | **48.9M** | **2.5M** | **942.0M** | **44.1M** | **91%** | **1,660** | **62.0h** |
 
-_1,060.1M total tokens processed. 91.1% cache hit rate._
+_1,037.8M total tokens processed. 91% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -101,7 +101,7 @@ _28,735.6M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-25 13:02 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-25 14:02 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
