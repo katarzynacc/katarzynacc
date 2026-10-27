@@ -34,10 +34,10 @@ _AI session 365-day totals cover 117 days of local assistant session history (no
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | claude-sonnet-5-5 | 2,815 | 6K | 750K | 147.7M | 26.4M | 84.8% | 306 | 12.2h |
-| claude-sonnet-4-6 | 2,703 | 2K | 497K | 210.6M | 9.1M | 95.8% | 94 | 12.6h |
-| claude-opus-4-6 | 2,156 | 2K | 477K | 187.0M | 6.8M | 96.5% | 167 | 12.2h |
+| claude-sonnet-4-6 | 2,555 | 2K | 476K | 204.5M | 8.7M | 95.9% | 87 | 12.3h |
+| claude-opus-4-6 | 2,155 | 2K | 477K | 187.0M | 6.7M | 96.5% | 166 | 12.2h |
 | gpt-5.6-terra | 1,433 | 9.5M | 303K | 127.2M | 0 | 93.0% | 86 | 8.3h |
-| gpt-5.6-luna | 1,032 | 15.7M | 63K | 11.9M | 0 | 43.2% | 896 | 2.7h |
+| gpt-5.6-luna | 1,029 | 15.7M | 63K | 11.9M | 0 | 43.3% | 893 | 2.7h |
 | nemotron-3-ultra-free | 608 | 15.5M | 67K | 62.1M | 0 | 80.0% | 5 | 3.2h |
 | big-pickle | 474 | 2.1M | 90K | 39.0M | 0 | 94.8% | 4 | 2.4h |
 | gpt-5.6-sol-fast | 332 | 1.1M | 67K | 36.6M | 0 | 96.9% | 5 | 1.6h |
@@ -50,9 +50,9 @@ _AI session 365-day totals cover 117 days of local assistant session history (no
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **11,863** | **45.7M** | **2.3M** | **847.8M** | **42.4M** | **90.6%** | **1,573** | **57.2h** |
+| **Total** | **11,711** | **45.6M** | **2.3M** | **841.7M** | **41.9M** | **90.6%** | **1,562** | **56.9h** |
 
-_938.3M total tokens processed. 90.6% cache hit rate._
+_931.7M total tokens processed. 90.6% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -101,7 +101,7 @@ _28,735.7M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-27 03:03 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-27 04:03 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
