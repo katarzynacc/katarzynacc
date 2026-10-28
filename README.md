@@ -12,7 +12,7 @@
 
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Screen time (Linux) | 24h | 169h | 412.3h | ~7210h* |
+| Screen time (Linux) | 24h | 169h | 412.3h | ~7219h* |
 | Interactive human attention | 0.0h | 0.0h | 14.8h | 158.9h |
 | Interactive AI generation | 0.0h | 0.0h | 11.2h | 315.9h |
 | Worker-classified human attention | 0.0h | 0.0h | 19.9h | 65.0h |
@@ -35,7 +35,7 @@ _AI session 365-day totals cover 118 days of local assistant session history (no
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | claude-sonnet-5-5 | 2,815 | 6K | 750K | 147.7M | 26.4M | 84.8% | 306 | 12.2h |
 | claude-opus-4-6 | 2,155 | 2K | 477K | 187.0M | 6.7M | 96.5% | 166 | 12.2h |
-| claude-sonnet-4-6 | 1,982 | 2K | 357K | 173.6M | 6.4M | 96.4% | 54 | 9.4h |
+| claude-sonnet-4-6 | 1,970 | 2K | 355K | 172.0M | 6.2M | 96.5% | 54 | 9.3h |
 | gpt-5.6-terra | 1,358 | 9.0M | 289K | 124.2M | 0 | 93.2% | 76 | 7.9h |
 | gpt-5.6-luna | 1,003 | 15.1M | 62K | 11.9M | 0 | 43.9% | 867 | 2.7h |
 | nemotron-3-ultra-free | 608 | 15.5M | 67K | 62.1M | 0 | 80.0% | 5 | 3.2h |
@@ -50,9 +50,9 @@ _AI session 365-day totals cover 118 days of local assistant session history (no
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **11,039** | **44.7M** | **2.2M** | **807.7M** | **39.6M** | **90.5%** | **1,495** | **53.6h** |
+| **Total** | **11,027** | **44.7M** | **2.2M** | **806.2M** | **39.5M** | **90.5%** | **1,495** | **53.5h** |
 
-_894.3M total tokens processed. 90.5% cache hit rate._
+_892.6M total tokens processed. 90.5% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -101,7 +101,7 @@ _28,735.7M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-27 23:03 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-28 00:03 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
