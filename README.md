@@ -12,7 +12,7 @@
 
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Screen time (Linux) | 24h | 169h | 412.5h | ~7227h* |
+| Screen time (Linux) | 24h | 169h | 412.5h | ~7236h* |
 | Interactive human attention | 0.0h | 0.0h | 12.2h | 158.9h |
 | Interactive AI generation | 0.0h | 0.0h | 9.7h | 315.9h |
 | Worker-classified human attention | 0.0h | 0.0h | 19.3h | 65.0h |
@@ -40,7 +40,7 @@ _AI session 365-day totals cover 120 days of local assistant session history (no
 | nemotron-3-ultra-free | 608 | 15.5M | 67K | 62.1M | 0 | 80.0% | 5 | 3.2h |
 | big-pickle | 474 | 2.1M | 90K | 39.0M | 0 | 94.8% | 4 | 2.4h |
 | gpt-5.6-sol-fast | 332 | 1.1M | 67K | 36.6M | 0 | 96.9% | 5 | 1.6h |
-| claude-sonnet-4-6 | 330 | 370 | 62K | 47.5M | 1.1M | 97.6% | 4 | 1.6h |
+| claude-sonnet-4-6 | 301 | 335 | 55K | 42.4M | 561K | 98.7% | 3 | 1.3h |
 | gpt-5.6-sol | 208 | 1.2M | 31K | 15.0M | 0 | 92.5% | 33 | 1.2h |
 | gpt-6-luna-fast | 105 | 510K | 14K | 10.2M | 0 | 95.2% | 2 | 0.8h |
 | claude-haiku-4-5 | 1 | 3 | 425 | 0 | 26K | 0.0% | 1 | 0.0h |
@@ -50,9 +50,9 @@ _AI session 365-day totals cover 120 days of local assistant session history (no
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **8,580** | **43.2M** | **1.7M** | **619.1M** | **31.8M** | **89.2%** | **1,352** | **40.8h** |
+| **Total** | **8,551** | **43.2M** | **1.7M** | **614.1M** | **31.2M** | **89.2%** | **1,351** | **40.6h** |
 
-_696.0M total tokens processed. 89.2% cache hit rate._
+_690.3M total tokens processed. 89.2% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -101,7 +101,7 @@ _28,735.8M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-10-29 23:03 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-10-30 00:03 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
