@@ -35,12 +35,12 @@ _AI session 365-day totals cover 124 days of local assistant session history (no
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | claude-sonnet-5-5 | 1,922 | 4K | 486K | 93.6M | 21.7M | 81.1% | 229 | 6.5h |
 | claude-opus-4-6 | 1,642 | 1K | 348K | 134.1M | 6.0M | 95.7% | 158 | 9.2h |
-| gpt-5.6-luna | 819 | 12.1M | 49K | 11.3M | 0 | 48.2% | 685 | 2.0h |
+| gpt-5.6-luna | 816 | 12.1M | 49K | 11.3M | 0 | 48.2% | 682 | 2.0h |
 | nemotron-3-ultra-free | 608 | 15.5M | 67K | 62.1M | 0 | 80.0% | 5 | 3.2h |
 | gpt-5.6-sol | 359 | 1.4M | 45K | 24.5M | 0 | 94.3% | 50 | 1.8h |
-| gpt-5.6-terra | 354 | 2.7M | 66K | 27.0M | 0 | 90.8% | 41 | 1.6h |
 | big-pickle | 270 | 1.1M | 50K | 23.5M | 0 | 95.3% | 3 | 1.2h |
 | claude-sonnet-4-6 | 247 | 263 | 44K | 40.6M | 238K | 99.4% | 1 | 0.8h |
+| gpt-5.6-terra | 237 | 2.0M | 43K | 18.7M | 0 | 90.1% | 36 | 0.9h |
 | gpt-5.6-sol-fast | 169 | 340K | 38K | 22.5M | 0 | 98.5% | 1 | 0.7h |
 | gpt-6-luna-fast | 140 | 815K | 23K | 14.4M | 0 | 94.7% | 3 | 0.9h |
 | claude-haiku-4-5 | 1 | 3 | 425 | 0 | 26K | 0.0% | 1 | 0.0h |
@@ -50,9 +50,9 @@ _AI session 365-day totals cover 124 days of local assistant session history (no
 | gpt-5.4-mini | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **6,537** | **34.2M** | **1.2M** | **454.0M** | **28.0M** | **87.9%** | **1,169** | **27.9h** |
+| **Total** | **6,417** | **33.5M** | **1.1M** | **445.8M** | **28.0M** | **87.9%** | **1,161** | **27.2h** |
 
-_517.6M total tokens processed. 87.9% cache hit rate._
+_508.6M total tokens processed. 87.9% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -101,7 +101,7 @@ _28,787.6M total tokens processed. 96.3% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-11-03 15:11 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-11-03 16:11 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
