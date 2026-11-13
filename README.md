@@ -33,12 +33,12 @@ _AI session 365-day totals cover 134 days of local assistant session history (no
 
 | Model | Requests | Input | Output | Cache read | Cache write | Cache Hit-Rate % | Session Count | Session Hours |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-5-5 | 2,575 | 5K | 840K | 159.9M | 13.2M | 92.3% | 189 | 10.4h |
+| claude-sonnet-5-5 | 2,558 | 5K | 836K | 159.1M | 13.1M | 92.4% | 186 | 10.3h |
 | gpt-5.6-terra | 1,143 | 6.4M | 238K | 94.0M | 0 | 93.5% | 94 | 6.7h |
 | gpt-5.6-sol | 832 | 3.8M | 108K | 52.7M | 0 | 93.3% | 98 | 4.0h |
 | claude-sonnet-4-6 | 605 | 733 | 127K | 77.4M | 2.3M | 97.1% | 6 | 3.0h |
 | claude-opus-4-6 | 578 | 790 | 104K | 38.1M | 2.6M | 93.5% | 104 | 2.3h |
-| gpt-5.6-luna | 561 | 10.8M | 28K | 1.1M | 0 | 9.6% | 554 | 0.9h |
+| gpt-5.6-luna | 560 | 10.8M | 28K | 1.1M | 0 | 9.5% | 553 | 0.9h |
 | gpt-6-luna-fast | 176 | 1.1M | 32K | 18.6M | 0 | 94.4% | 4 | 1.2h |
 | gpt-5.6-sol-fast | 169 | 340K | 38K | 22.5M | 0 | 98.5% | 1 | 0.7h |
 | claude-haiku-5-5 | 3 | 12 | 4K | 35K | 246K | 12.6% | 3 | 0.0h |
@@ -47,9 +47,9 @@ _AI session 365-day totals cover 134 days of local assistant session history (no
 | gpt-5.4-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5 | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
 | gpt-5.5-fast | 1 | 0 | 0 | 0 | 0 | 0.0% | 1 | 0.0h |
-| **Total** | **6,649** | **22.5M** | **1.5M** | **464.8M** | **18.5M** | **91.9%** | **1,047** | **29.3h** |
+| **Total** | **6,631** | **22.5M** | **1.5M** | **464.0M** | **18.3M** | **91.9%** | **1,043** | **29.2h** |
 
-_507.4M total tokens processed. 91.9% cache hit rate._
+_506.5M total tokens processed. 91.9% cache hit rate._
 
 ## AI Model Usage (all time)
 
@@ -99,7 +99,7 @@ _29,126.9M total tokens processed. 96.2% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-11-13 20:03 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-11-13 21:03 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
