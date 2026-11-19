@@ -12,22 +12,22 @@
 
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Input activity (Linux) | 0.1h | 8.7h | 9.2h | ~235h* |
+| Input activity (Linux) | 0.3h | 8.6h | 9.4h | ~224h* |
 | Interactive human attention | 0.0h | 6.0h | 6.9h | 165.7h |
-| Interactive AI generation | 0.0h | 4.1h | 4.6h | 320.6h |
+| Interactive AI generation | 0.5h | 4.6h | 5.1h | 321.1h |
 | Worker-classified human attention | 0.0h | 15.3h | 15.6h | 80.7h |
-| Worker/headless AI generation | 1.1h | 29.5h | 36.7h | 1421.7h |
-| Additive observed work | 1.1h | 54.8h | 63.8h | 1,983.3h |
-| Interactive sessions | 2 | 10 | 13 | 189 |
-| Worker sessions | 52 | 506 | 1,176 | 17,338 |
+| Worker/headless AI generation | 2.3h | 28.8h | 39.0h | 1424.1h |
+| Additive observed work | 2.8h | 54.6h | 66.7h | 1,986.1h |
+| Interactive sessions | 2 | 9 | 13 | 189 |
+| Worker sessions | 33 | 490 | 1,170 | 17,338 |
 
-_Input activity from linux-input-activity:idle-cutoff-300s; collection status: ok. Input sampling began 2026-11-04 (14.3 of 28 days sampled); earlier days are not counted. Latest sample measured: desktop input. *365-day estimate uses observed calendar coverage._
+_Input activity from linux-input-activity:idle-cutoff-300s; collection status: ok. Input sampling began 2026-11-04 (15.3 of 28 days sampled); earlier days are not counted. Latest sample measured: desktop input. *365-day estimate uses observed calendar coverage._
 
 _Periods are completed local calendar days ending at midnight; today is excluded._
 
 _Human attention is unioned wall-clock time, so overlapping sessions are not double-counted. AI generation is additive machine work across sessions; it is not wall-clock concurrency._
 
-_AI session 365-day totals cover 140 days of local assistant session history (not extrapolated)._
+_AI session 365-day totals cover 141 days of local assistant session history (not extrapolated)._
 
 ## AI Model Usage (last 30 days)
 
@@ -97,7 +97,7 @@ _29,421.6M total tokens processed. 96.2% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-11-19 22:03 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-11-19 23:03 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
