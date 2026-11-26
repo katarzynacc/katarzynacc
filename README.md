@@ -12,22 +12,22 @@
 
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Input activity (Linux) | 0h | 4h | 13.2h | ~226h* |
+| Input activity (Linux) | 0h | 3.8h | 13.2h | ~216h* |
 | Interactive human attention | 0.0h | 1.3h | 8.1h | 167.0h |
-| Interactive AI generation | 0.0h | 10.4h | 15.0h | 330.9h |
-| Worker-classified human attention | 1.1h | 1.9h | 17.6h | 82.6h |
-| Worker/headless AI generation | 1.8h | 7.4h | 44.1h | 1429.1h |
-| Additive observed work | 2.9h | 21.0h | 84.8h | 2,004.3h |
-| Interactive sessions | 0 | 53 | 64 | 240 |
-| Worker sessions | 45 | 134 | 1,251 | 17,436 |
+| Interactive AI generation | 0.0h | 9.8h | 15.0h | 330.9h |
+| Worker-classified human attention | 0.0h | 1.9h | 17.6h | 82.6h |
+| Worker/headless AI generation | 1.6h | 6.7h | 45.7h | 1430.7h |
+| Additive observed work | 1.6h | 19.7h | 86.4h | 2,005.8h |
+| Interactive sessions | 0 | 51 | 64 | 240 |
+| Worker sessions | 17 | 101 | 1,247 | 17,436 |
 
-_Input activity from linux-input-activity:idle-cutoff-300s; collection status: ok. Input sampling began 2026-11-04 (21.3 of 28 days sampled); earlier days are not counted. Latest sample measured: desktop input. *365-day estimate uses observed calendar coverage._
+_Input activity from linux-input-activity:idle-cutoff-300s; collection status: ok. Input sampling began 2026-11-04 (22.3 of 28 days sampled); earlier days are not counted. Latest sample measured: desktop input. *365-day estimate uses observed calendar coverage._
 
 _Periods are completed local calendar days ending at midnight; today is excluded._
 
 _Human attention is unioned wall-clock time, so overlapping sessions are not double-counted. AI generation is additive machine work across sessions; it is not wall-clock concurrency._
 
-_AI session 365-day totals cover 147 days of local assistant session history (not extrapolated)._
+_AI session 365-day totals cover 148 days of local assistant session history (not extrapolated)._
 
 ## AI Model Usage (last 30 days)
 
@@ -101,7 +101,7 @@ _29,693.1M total tokens processed. 96.2% cache hit rate._
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-11-26 19:06 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-11-26 23:06 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <!-- TOTAL-CONTRIBUTIONS-START -->
